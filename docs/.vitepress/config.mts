@@ -2,8 +2,9 @@ import { defineConfig } from 'vitepress'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-  title: "NYCUCS NASA Course",
-  description: "NYCUCS NASA Course Website",
+  title: "  description: "NASA Course Website",
+",
+  description: "NASA Course Website",
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [
