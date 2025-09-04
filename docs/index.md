@@ -3,8 +3,8 @@
 layout: home
 
 hero:
-  name: "NYCUCS NASA Course"
-  tagline: "Official Website for NASA Course"
+  name: "NYCU NASA Course"
+  tagline: "Official Website for NYCU NASA Course"
   actions:
     - theme: brand
       text: System Administration
@@ -12,6 +12,4 @@ hero:
     - theme: brand
       text: Network Administration
       link: /na
-
 ---
-
