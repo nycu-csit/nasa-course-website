@@ -1,0 +1,30 @@
+---
+title: SA 2021
+---
+
+# 計算機系統管理 — 2021（SA）
+
+[返回 SA 首頁](/sa/)
+
+## 課程投影片
+
+| Date | Lecture | Slides | Video Link |
+|---|---|---|---|
+| 09/16 | Syllabus, Grade Policy | [Syllabus](slides/00_Syllabus.pptx)<br>[pdf](slides/00_Syllabus.pdf) | [Link](https://teams.microsoft.com/l/meetup-join/19%3ameeting_NTNhODRjOTMtYjhmYy00MGQxLTgyOWItNTZkOTI4ODVhMDgx%40thread.v2/0?context=%7b%22Tid%22%3a%2280a9abdb-7cef-443c-b040-3f8e75e9232e%22%2c%22Oid%22%3a%2296f7dd50-2d0f-425e-835c-e91485fe70de%22%7d) |
+| 09/24 | Install FreeBSD<br>Install Applications<br>**Homework 1**: Install FreeBSD & WireGuard | [Install FreeBSD](slides/01_Install_FreeBSD.pptx)<br>[pdf](slides/01_Install_FreeBSD.pdf)<br>[Install Apps](slides/02_Installing_Applications.pptx)<br>[pdf](slides/02_Installing_Applications.pdf)<br>[HW1](slides/HW1.pptx)<br>[pdf](slides/HW1.pdf) | [Link](https://teams.microsoft.com/l/meetup-join/19%3ameeting_NTNhODRjOTMtYjhmYy00MGQxLTgyOWItNTZkOTI4ODVhMDgx%40thread.v2/0?context=%7b%22Tid%22%3a%2280a9abdb-7cef-443c-b040-3f8e75e9232e%22%2c%22Oid%22%3a%2296f7dd50-2d0f-425e-835c-e91485fe70de%22%7d) |
+| 09/30 | Shell<br>Utility: tmux, git<br>**Homework 2**: One liner script & System Info | [Shell Command](slides/03_Shell.pptx)<br>[pdf](slides/03_Shell.pdf)<br>[Utility: tmux, git](slides/05_Utilities_tmux_git.pptx)<br>[pdf](slides/05_Utilities_tmux_git.pdf)<br>[HW2](slides/HW2_20211002.pptx)<br>[pdf](slides/HW2_20211002.pdf) | [Link](https://teams.microsoft.com/l/meetup-join/19%3AUEr5hGHp9FHZRa5xZNyfOdnIRobq9eHsQTQHuHVTeoQ1%40thread.tacv2/1632983828601?context=%7B%22Tid%22%3A%2280a9abdb-7cef-443c-b040-3f8e75e9232e%22%2C%22Oid%22%3A%22752c6993-c5cc-486f-bc3e-8c27c05e450f%22%2C%22MessageId%22%3A%221632983828601%22%7D) |
+| 10/07 | Shell Programming<br>Booting Up and Shutting Down | [Shell Programming](slides/04_ShellProgramming.pptx)<br>[pdf](slides/04_ShellProgramming.pdf)<br>[Boot&ShutDown](slides/06_Boot_ShutDown.pptx)<br>[pdf](slides/06_Boot_ShutDown.pdf) | [Link](https://teams.microsoft.com/l/meetup-join/19%3AUEr5hGHp9FHZRa5xZNyfOdnIRobq9eHsQTQHuHVTeoQ1%40thread.tacv2/1632983828601?context=%7B%22Tid%22%3A%2280a9abdb-7cef-443c-b040-3f8e75e9232e%22%2C%22Oid%22%3A%22752c6993-c5cc-486f-bc3e-8c27c05e450f%22%2C%22MessageId%22%3A%221632983828601%22%7D) |
+| 10/14 | User Management<br>Controlling Process<br>Periodic Processes | [User Management](slides/07_User_Management.pptx)<br>[pdf](slides/07_User_Management.pdf)<br>[Controlling Process](slides/08_Controlling_Process.pptx)<br>[pdf](slides/08_Controlling_Process.pdf)<br>[Periodic Processes](slides/09_Periodic_Processes.pptx)<br>[pdf](slides/09_Periodic_Processes.pdf) | [Link](https://teams.microsoft.com/l/meetup-join/19%3AUEr5hGHp9FHZRa5xZNyfOdnIRobq9eHsQTQHuHVTeoQ1%40thread.tacv2/1632983828601?context=%7B%22Tid%22%3A%2280a9abdb-7cef-443c-b040-3f8e75e9232e%22%2C%22Oid%22%3A%22752c6993-c5cc-486f-bc3e-8c27c05e450f%22%2C%22MessageId%22%3A%221632983828601%22%7D) |
+| 10/21 | File System<br>Service and Settings | [File System](slides/10_FileSystem.pptx)<br>[pdf](slides/10_FileSystem.pdf)<br>[Service and Settings](slides/11_Service_and_Settings.pptx)<br>[pdf](slides/11_Service_and_Settings.pdf) | [Link](https://meet.google.com/xdo-uxsk-imr) |
+| 10/28 | GPT<br>Disks<br>ZFS<br>Backup | [GPT](slides/12_GPT.pptx)<br>[pdf](slides/12_GPT.pdf)<br>[Disks](slides/13_Disks.pptx)<br>[pdf](slides/13_Disks.pdf)<br>[ZFS](slides/14_ZFS.pptx)<br>[pdf](slides/14_ZFS.pdf)<br>[Backup](slides/15_Backups.pptx)<br>[pdf](slides/15_Backups.pdf) | [Link](https://meet.google.com/xdo-uxsk-imr) |
+| 11/05 | **期中考** | | |
+| 11/11 | FTP<br>Syslog<br>Web<br>FAMP<br>**Homework 3**: File Server | [FTP](slides/16_FTP_File_Transfer_Protocol.pptx)<br>[pdf](slides/16_FTP_File_Transfer_Protocol.pdf)<br>[Syslog](slides/17_Syslog_and_LogRotate.pptx)<br>[pdf](slides/17_Syslog_and_LogRotate.pdf)<br>[Web](slides/18_Web.pptx)<br>[pdf](slides/18_Web.pdf)<br>[FAMP](slides/19_FAMP.pptx)<br>[pdf](slides/19_FAMP.pdf)<br>[HW3](slides/hw3_20211204.pptx)<br>[pdf](slides/hw3_20211204.pdf) | [Link](https://meet.google.com/xdo-uxsk-imr) |
+| 11/18 | ZFS<br>Driver and Kernel<br>Open Source Engagement | [ZFS](slides/14_ZFS.pptx)<br>[pdf](slides/14_ZFS.pdf)<br>[Driver and Kernel](slides/20_Driver_and_Kernel.pptx)<br>[pdf](slides/20_Driver_and_Kernel.pdf)<br>[Open Source Engagement](slides/21_Open_Source_Engagement.pptx)<br>[pdf](slides/21_Open_Source_Engagement.pdf) | [Link](https://meet.google.com/xdo-uxsk-imr) |
+| 11/25 | Driver and Kernel<br>Open Source Engagement<br>**Homework 4**: Web Service | [Driver and Kernel](slides/20_Driver_and_Kernel.pptx)<br>[pdf](slides/20_Driver_and_Kernel.pdf)<br>[Open Source Engagement](slides/21_Open_Source_Engagement.pptx)<br>[pdf](slides/21_Open_Source_Engagement.pdf)<br>[HW4](slides/HW4.pptx)<br>[pdf](slides/HW4.pdf) | [Link](https://meet.google.com/xdo-uxsk-imr) |
+| 12/02 | PKI<br>TCP/IP Networking: Part 1<br>The Network File System | [PKI](slides/22_PKI.pptx)<br>[pdf](slides/22_PKI.pdf)<br>[TCP/IP Networking](slides/23_TCP_IP.pptx)<br>[pdf](slides/23_TCP_IP.pdf)<br>[NFS](slides/24_NFS.pptx)<br>[pdf](slides/24_NFS.pdf) | [Link](https://meet.google.com/xdo-uxsk-imr) |
+| 12/09 | Basic_Firewall<br>Security<br>Automount<br>**Homework 5** : NFS & Firewall | [Basic_Firewall](slides/25_Basic_Firewall.pptx)<br>[pdf](slides/25_Basic_Firewall.pdf)<br>[Security](slides/26_Security.pptx)<br>[pdf](slides/26_Security.pdf)<br>[Automount](slides/27_Automount.pptx)<br>[pdf](slides/27_Automount.pdf)<br>[HW5](slides/HW5.pptx)<br>[pdf](slides/HW5.pdf) | [Link](https://meet.google.com/xdo-uxsk-imr) |
+| 12/16 | **業師課程**: **電信網路管理技術發展趨勢**<br>**Speaker**: 王則涵 (中華電信研究院)<br>**Chair**: 曾建超 教授<br>**Location**: EC122 | | [Link](https://meet.google.com/xdo-uxsk-imr) |
+| 12/23 | TCP/IP Networking: Part 2<br>Performance<br>Sharing System Files | [TCP/IP Networking](slides/23_TCP_IP.pptx)<br>[pdf](slides/23_TCP_IP.pdf)<br>[Performance](slides/28_Performance.pptx)<br>[pdf](slides/28_Performance.pdf)<br>[NIS](slides/29_NIS.pptx)<br>[pdf](slides/29_NIS.pdf) | [Link](https://meet.google.com/xdo-uxsk-imr) |
+| 12/30 | **期末考** | | |
+
+---

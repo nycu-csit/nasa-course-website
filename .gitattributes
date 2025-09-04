@@ -1,0 +1,4 @@
+docs/sa/2024/slides/* filter=lfs diff=lfs merge=lfs -text
+docs/sa/2021/slides/* filter=lfs diff=lfs merge=lfs -text
+docs/sa/2022/slides/* filter=lfs diff=lfs merge=lfs -text
+docs/sa/2023/slides/* filter=lfs diff=lfs merge=lfs -text
