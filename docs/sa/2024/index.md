@@ -4,6 +4,8 @@ title: SA 2024
 
 # SA — 2024
 
+[返回 SA 首頁](/sa/)
+
 ## Slides
 
 | Date  | Lecture | Slides |
