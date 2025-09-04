@@ -80,7 +80,7 @@ function getNaSidebar() {
 }
 
 export default {
-  title: "NASA Course Website",
+  title: "NYCU NASA Course",
   srcDir: ".",
   transformPageData(pageData) {
     try {
