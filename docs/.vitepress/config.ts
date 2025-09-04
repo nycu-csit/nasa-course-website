@@ -82,6 +82,75 @@ function getNaSidebar() {
 export default {
   title: "NASA Course Website",
   srcDir: ".",
+  transformPageData(pageData) {
+    try {
+      // Build a flat ordered list of links from the sidebar
+      const saSidebar = getSaSidebar();
+      const orderedLinks = [] as {
+        link: string;
+        pathAbs: string;
+        title: string;
+      }[];
+      const collect = (items: any[]) => {
+        for (const it of items) {
+          if (it.items) {
+            collect(it.items);
+          } else if (it.link) {
+            const link = it.link.endsWith("/") ? it.link : `${it.link}`;
+            const withoutLeading = link.replace(/^\//, "");
+            const filePathAbs = path.resolve(
+              path.dirname(fileURLToPath(import.meta.url)),
+              `../${withoutLeading}.md`.replace(/\.md\.md$/, ".md")
+            );
+            let title = "";
+            try {
+              const content = fs.readFileSync(filePathAbs, "utf-8");
+              const m = content.match(
+                /^---[\s\S]*?title:\s*(.+?)\s*[\r\n][\s\S]*?---/
+              );
+              if (m) {
+                title = m[1].trim();
+              } else {
+                const h1 = content.match(/^#\s+(.+)$/m);
+                title = h1 ? h1[1].trim() : it.text || link;
+              }
+            } catch {
+              title = it.text || link;
+            }
+            orderedLinks.push({ link, pathAbs: filePathAbs, title });
+          }
+        }
+      };
+      for (const group of saSidebar) collect((group as any).items || []);
+
+      // Create prev/next map
+      const prevNextMap = new Map(
+        orderedLinks.map((entry, idx) => {
+          const prev = idx > 0 ? orderedLinks[idx - 1] : undefined;
+          const next =
+            idx < orderedLinks.length - 1 ? orderedLinks[idx + 1] : undefined;
+          return [
+            entry.link,
+            {
+              prev: prev ? { text: prev.title, link: prev.link } : undefined,
+              next: next ? { text: next.title, link: next.link } : undefined,
+            },
+          ] as const;
+        })
+      );
+
+      const currentPath = pageData.relativePath
+        ? `/${pageData.relativePath
+            .replace(/\\/g, "/")
+            .replace(/index\.md$/, "")}`.replace(/\.md$/, "")
+        : "";
+      const mapping = prevNextMap.get(currentPath);
+      if (mapping) {
+        if (mapping.prev) pageData.frontmatter.prev = mapping.prev;
+        if (mapping.next) pageData.frontmatter.next = mapping.next;
+      }
+    } catch {}
+  },
   themeConfig: {
     sidebar: {
       "/sa/": getSaSidebar(),
