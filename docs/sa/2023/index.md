@@ -14,7 +14,7 @@ title: SA 2023
 | 09/21 | Install FreeBSD<br>Install Applications<br>Homework 1 Announcement: Install FreeBSD/Ubuntu & WireGuard | [Install FreeBSD](slides/01_Install_FreeBSD.pdf)<br>[Install Apps](slides/02_Installing_Applications.pdf)<br>[HW1](slides/HW1.pdf) |
 | 09/28 | Teachers Day (no class) |  |
 | 10/05 | Course cancelled due to typhoon day (no class)<br>Utility: tmux, git (study on your own)<br>Homework 1 Deadline | <br>[Utilities (tmux, git)](slides/05_Utilities_tmux_git.pdf) |
-| 10/12 | 開源技術講座 (19:00~20:30): 鄭黃翔 (apple), 許秉倫 (LinkedIn), 蔡嘉平 (原昌工業)<br>社群: 源來適你 (每週六科技開講)<br>Homework 2 Announcement: Shell script & System Info | [海報](slides/20231012_開源技術講座_源來適你.pdf)<br><br>[HW2](slides/HW2.pdf)<br>[HW2 sample input](slides/hw2-sample.tar) |
+| 10/12 | 開源技術講座 (19:00~20:30): 鄭黃翔 (apple), 許秉倫 (LinkedIn), 蔡嘉平 (原昇工業)<br>社群: 源來適你 (每週六科技開講)<br>Homework 2 Announcement: Shell script & System Info | [海報](slides/20231012_開源技術講座_源來適你.pdf)<br><br>[HW2](slides/HW2.pdf) |
 | 10/19 | Shell | [Shell Command](slides/03_Shell.pdf) |
 | 10/26 | Shell Programming<br>Homework 2 Deadline<br>Homework 3 Announcement: File Server | [Shell Programming](slides/04_ShellProgramming.pdf)<br><br>[HW3](slides/HW3.pdf) |
 | 11/02 | 期中考 |  |

@@ -13,7 +13,7 @@ title: SA 2022
 | 09/15 | Syllabus, Grade Policy<br>Install FreeBSD | [Syllabus](slides/00_Syllabus.pdf)<br>[Install FreeBSD](slides/01_Install_FreeBSD.pdf) |
 | 09/22 | Install Applications<br>**Homework 1**: Install FreeBSD & WireGuard | [Install Apps](slides/02_Installing_Applications.pdf)<br>[HW1](slides/HW1.pdf) |
 | 09/29 | Shell | [Shell Command](slides/03_Shell.pdf) |
-| 10/06 | Shell Programming<br>Utility: tmux, git (study on your own)<br>**Homework 2**: Shell script & System Info | [Shell Programming](slides/04_ShellProgramming.pdf)<br>[Utility: tmux, git](slides/05_Utilities_tmux_git.pdf)<br>[HW2](slides/HW2.pdf)<br>[HW2_sample_input](slides/HW2_sample_input.tar) |
+| 10/06 | Shell Programming<br>Utility: tmux, git (study on your own)<br>**Homework 2**: Shell script & System Info | [Shell Programming](slides/04_ShellProgramming.pdf)<br>[Utility: tmux, git](slides/05_Utilities_tmux_git.pdf)<br>[HW2](slides/HW2.pdf) |
 | 10/13 | Booting Up and Shutting Down<br>User Management | [Boot&ShutDown](slides/06_Boot_ShutDown.pdf)<br>[User Management](slides/07_User_Management.pdf) |
 | 10/20 | Controlling Process | [Controlling Process](slides/08_Controlling_Process.pdf) |
 | 10/27 | Periodic Processes<br>File System<br>Service and Settings | [Periodic Processes](slides/09_Periodic_Processes.pdf)<br>[File System](slides/10_FileSystem.pdf)<br>[Service and Settings](slides/11_Service_and_Settings.pdf) |
