@@ -6,15 +6,6 @@ This project is a documentation website for the NASA course at NYCU, built with 
 
 To get a local copy up and running follow these simple steps.
 
-### Prerequisites
-
-* npm
-```sh
-npm install npm@latest -g
-```
-
-### Installation
-
 1. Clone the repo
    ```sh
    git clone https://github.com/your_username_/your_project_name.git
