@@ -10,23 +10,23 @@ title: SA 2005
 
 | Date | Lecture | Slides |
 |---|---|---|
-| 09/15 | Introduction to Course Contents<br>What Adminitor should do<br>Syllabus, Grade Policy | [Chap0.pdf](slide/Chap0.pdf)<br>[Chap0.pdf](slide/Chap0.pdf) |
-| 09/22 | Unix introduction and How to install your FreeBSD<br>Exercise1: Steps of FreeBSD installation<br>Chapter2: Booting and Shutting Down | [Chap2.pdf](slide/Chap2.pdf)<br>[Chap2.pdf](slide/Chap2.pdf) |
-| 09/29 | The Filesystem and Controlling Processes<br>Chapter3: Rootly Powers<br>Chapter4: Controlling Process<br>Chapter5: The Filesystem | [Chap3.pdf](slide/Chap3.pdf)<br>[Chap3.pdf](slide/Chap3.pdf)<br>[Chap4.pdf](slide/Chap4.pdf)<br>[Chap4.pdf](slide/Chap4.pdf)<br>[Chap5.pdf](slide/Chap5.pdf)<br>[Chap5.pdf](slide/Chap5.pdf) |
-| 10/06 | Shell Programming<br>Exercise2a: shell exercises | [ShellProgramming.pdf](slide/ShellProgramming.pdf)<br>[ShellProgramming.pdf](slide/ShellProgramming.pdf) |
-| 10/13 | Shell Programming<br>User Account and Serial Device<br>Exercise2b: shell exercises<br>Chapter6: Adding New Users<br>Chapter7: Serial Devices | [Chap6.pdf](slide/Chap6.pdf)<br>[Chap6.pdf](slide/Chap6.pdf)<br>chapter7 is postponed to 10/27 |
-| 10/20 | Disk<br>Chapter8: Adding a Disk<br>Exercise3: Build X window | [Chap8.pdf](slide/Chap8.pdf)<br>[Chap8.pdf](slide/Chap8.pdf) |
-| 10/27 | Chapter7: Serial Devices<br>Chapter8: Adding a Disk<br>Exercise3: Build X window | [Chap7.pdf](slide/Chap7.pdf)<br>[Chap7.pdf](slide/Chap7.pdf)<br>[Chap8.pdf](slide/Chap8.pdf)<br>[Chap8.pdf](slide/Chap8.pdf) |
-| 11/03 | Periodic Process and Backups<br>Chapter9: Periodic Process<br>Chapter10: Backups<br>Exercise4: Build Chinese World | [Chap9.pdf](slide/Chap9.pdf)<br>[Chap9.pdf](slide/Chap9.pdf) |
-| 11/10 | System logs and Kernel<br>Chapter11: Syslog and log files<br>Chapter12: Drivers and the kernel | [Chap10.pdf](slide/Chap10.pdf)<br>[Chap10.pdf](slide/Chap10.pdf)<br>[Chap11.pdf](slide/Chap11.pdf)<br>[Chap11.pdf](slide/Chap11.pdf) |
+| 09/15 | Introduction to Course Contents<br>What Adminitor should do<br>Syllabus, Grade Policy | [Chap0.pdf](slides/Chap0.pdf)<br>[Chap0.pdf](slides/Chap0.pdf) |
+| 09/22 | Unix introduction and How to install your FreeBSD<br>Exercise1: Steps of FreeBSD installation<br>Chapter2: Booting and Shutting Down | [Chap2.pdf](slides/Chap2.pdf)<br>[Chap2.pdf](slides/Chap2.pdf) |
+| 09/29 | The Filesystem and Controlling Processes<br>Chapter3: Rootly Powers<br>Chapter4: Controlling Process<br>Chapter5: The Filesystem | [Chap3.pdf](slides/Chap3.pdf)<br>[Chap3.pdf](slides/Chap3.pdf)<br>[Chap4.pdf](slides/Chap4.pdf)<br>[Chap4.pdf](slides/Chap4.pdf)<br>[Chap5.pdf](slides/Chap5.pdf)<br>[Chap5.pdf](slides/Chap5.pdf) |
+| 10/06 | Shell Programming<br>Exercise2a: shell exercises | [ShellProgramming.pdf](slides/ShellProgramming.pdf)<br>[ShellProgramming.pdf](slides/ShellProgramming.pdf) |
+| 10/13 | Shell Programming<br>User Account and Serial Device<br>Exercise2b: shell exercises<br>Chapter6: Adding New Users<br>Chapter7: Serial Devices | [Chap6.pdf](slides/Chap6.pdf)<br>[Chap6.pdf](slides/Chap6.pdf)<br>chapter7 is postponed to 10/27 |
+| 10/20 | Disk<br>Chapter8: Adding a Disk<br>Exercise3: Build X window | [Chap8.pdf](slides/Chap8.pdf)<br>[Chap8.pdf](slides/Chap8.pdf) |
+| 10/27 | Chapter7: Serial Devices<br>Chapter8: Adding a Disk<br>Exercise3: Build X window | [Chap7.pdf](slides/Chap7.pdf)<br>[Chap7.pdf](slides/Chap7.pdf)<br>[Chap8.pdf](slides/Chap8.pdf)<br>[Chap8.pdf](slides/Chap8.pdf) |
+| 11/03 | Periodic Process and Backups<br>Chapter9: Periodic Process<br>Chapter10: Backups<br>Exercise4: Build Chinese World | [Chap9.pdf](slides/Chap9.pdf)<br>[Chap9.pdf](slides/Chap9.pdf) |
+| 11/10 | System logs and Kernel<br>Chapter11: Syslog and log files<br>Chapter12: Drivers and the kernel | [Chap10.pdf](slides/Chap10.pdf)<br>[Chap10.pdf](slides/Chap10.pdf)<br>[Chap11.pdf](slides/Chap11.pdf)<br>[Chap11.pdf](slides/Chap11.pdf) |
 | 11/17 | 上課 40 分鐘 | |
 | 11/24 | 期中考 | |
-| 12/01 | Basic TCP/IP Administration<br>Chapter13: TCP/IP Networking | [Chap12.pdf](slide/Chap12.pdf)<br>[Chap13.pdf](slide/Chap13.pdf) |
-| 12/08 | NIS and NFS<br>Chapter17: The Network File System<br>Chapter18: Sharing system files<br>Exercise5: NFS and NIS | [Chap17.pdf](slide/Chap17.pdf)<br>[Chap18.pdf](slide/Chap18.pdf) |
-| 12/15 | Web Server<br>Chapter22: Web Hosting and Internet Servers<br>Exercise6: Build WWW and MySQL server | [Chap22.pdf](slide/Chap22.pdf) |
-| 12/15 | Printing and Samba<br>Chapter23: Printing<br>Exercise7: Build Samba | [Chap23.pdf](slide/Chap23.pdf) |
+| 12/01 | Basic TCP/IP Administration<br>Chapter13: TCP/IP Networking | [Chap12.pdf](slides/Chap12.pdf)<br>[Chap13.pdf](slides/Chap13.pdf) |
+| 12/08 | NIS and NFS<br>Chapter17: The Network File System<br>Chapter18: Sharing system files<br>Exercise5: NFS and NIS | [Chap17.pdf](slides/Chap17.pdf)<br>[Chap18.pdf](slides/Chap18.pdf) |
+| 12/15 | Web Server<br>Chapter22: Web Hosting and Internet Servers<br>Exercise6: Build WWW and MySQL server | [Chap22.pdf](slides/Chap22.pdf) |
+| 12/15 | Printing and Samba<br>Chapter23: Printing<br>Exercise7: Build Samba | [Chap23.pdf](slides/Chap23.pdf) |
 | 12/22 | Introduction to DNS and Mail<br>Chapter19: Electronic Mail | |
-| 12/29 | Secure your servers | [Chap21.pdf](slide/Chap21.pdf)<br>[Chap23.pdf](slide/Chap23.pdf)<br>[Chap25.pdf](slide/Chap25.pdf) |
+| 12/29 | Secure your servers | [Chap21.pdf](slides/Chap21.pdf)<br>[Chap23.pdf](slides/Chap23.pdf)<br>[Chap25.pdf](slides/Chap25.pdf) |
 | 01/05 | | |
 | 01/12 | | |
 | 01/17 | | |
