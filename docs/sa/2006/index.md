@@ -1,0 +1,34 @@
+---
+title: SA 2006
+---
+
+# 計算機系統管理 — 2006（SA）
+
+[返回 SA 首頁](/sa/)
+
+## 課程投影片
+
+| Date | Lecture | Slides |
+|---|---|---|
+| 09/13 | Introduction to Course Contents<br>What Adminitor should do<br>Syllabus, Grade Policy | [Syllabus: ppt](../slide/00_Syllabus.ppt)<br>[pdf](../slide/00_Syllabus.pdf) |
+| 09/20 | Unix introduction and How to install your FreeBSD<br>Chapter1: Unix instroduction<br>Exercise1: Steps of FreeBSD installation<br>Chapter2: Booting and Shutting Down | [Chap01: ppt](../slide/01_Unix%20Introduciton.ppt)<br>[pdf](../slide/01_Unix%20Introduciton.pdf)<br>[hwk01: ppt](../slide/hwk1_Install%20FreeBSD.ppt)<br>[pdf](../slide/hwk1_Install%20FreeBSD.pdf)<br>[Chap02: ppt](../slide/02_Booting%20Up%20and%20Sutting%20Down.ppt)<br>[pdf](../slide/02_Booting%20Up%20and%20Sutting%20Down.pdf) |
+| 09/27 | Rootly Power and Controlling Processes<br>Chapter3: Rootly powers<br>Chapter4: Controlling process | [Chap03: ppt](../slide/03_Rootly%20Powers.ppt)<br>[pdf](../slide/03_Rootly%20Powers.pdf)<br>[Chap04: ppt](../slide/04_Controlling%20Process.ppt)<br>[pdf](../slide/04_Controlling%20Process.pdf) |
+| 10/04 | The Filesystem and User Account<br>Chapter5: The Filesystem<br>Chapter6: Adding New Users<br>Exercise2(a): Build X window and Chinese World | [Chap05: ppt](../slide/05_The%20FileSystem.ppt)<br>[pdf](../slide/05_The%20FileSystem.pdf)<br>[Chap06: ppt](../slide/06_Adding%20New%20Users.ppt)<br>[pdf](../slide/06_Adding%20New%20Users.pdf)<br>[X Window: ppt](../slide/hwk2a_BuildXWindow.ppt)<br>[pdf](../slide/hwk2a_BuildXWindow.pdf) |
+| 10/11 | serial device<br>Chapter7: Serial Devices | [Chap07: ppt](../slide/07_Serial%20Devices.ppt)<br>[pdf](../slide/07_Serial%20Devices.pdf) |
+| 10/18 | disk, and periodic process<br>Chapter8: Adding a Disk<br>Exercise2(b): Build X window and Chinese World<br>Chapter9: Periodic Process | [Chap08: ppt](../slide/08_Adding%20Disk.ppt)<br>[pdf](../slide/08_Adding%20Disk.pdf)<br>[ChineseWorld: ppt](../slide/hwk2b_ChineseWorld.ppt)<br>[pdf](../slide/hwk2b_ChineseWorld.pdf)<br>[Chap09: ppt](../slide/09_Periodic%20Processes.ppt)<br>[pdf](../slide/09_Periodic%20Processes.pdf) |
+| 10/25 | Shell and Shell Programming<br>Appendix: Shell and Shell Programming | ShellProgramming |
+| 11/01 | Shell and Shell Programming<br>Appendix: Shell and Shell Programming<br>Install Applications<br>Install Applications (By chiahung) | [ShellProgramming (new): ppt](../slide/ShellProgramming.ppt)<br>[pdf](../slide/ShellProgramming.pdf)<br>[Installing Applications: ppt](../slide/Installing%20Applications.ppt)<br>[pdf](../slide/Installing%20Applications.pdf) |
+| 11/08 | <br>Exercise3: Shell Programming | |
+| 11/15 |  | |
+| 11/22 | | |
+| 11/29 | Backups, Logs, Driver and Kernel<br>Backups<br>Logs and Syslog<br>Driver and Kernel | [Chap10: ppt](../slide/10_Backups.ppt)<br>[pdf](../slide/10_Backups.pdf)<br>[Chap11: ppt](../slide/11_Syslog%20and%20Logs.ppt)<br>[pdf](../slide/11_Syslog%20and%20Logs.pdf)<br>[Chap12: ppt](../slide/12_Driver%20and%20Kernel.ppt)<br>[pdf](../slide/12_Driver%20and%20Kernel.pdf) |
+| 12/06 | չB|AҤ@ | |
+| 12/13 | Basic TCP/IP Administration<br>TCP/IP Networking | [Chap13: ppt](../slide/13_TCPIP.ppt)<br>[pdf](../slide/13_TCPIP.pdf) |
+| 12/20 | NIS and NFS<br>The Network File System<br>Sharing system files<br>Exercise4: NFS and NIS | [Chap17: ppt](../slide/17_NFS.ppt)<br>[pdf](../slide/17_NFS.pdf)<br>[Chap18: ppt](../slide/18_NIS.ppt)<br>[pdf](../slide/18_NIS.pdf)<br>[hwk4: ppt](../slide/hwk4_NFS+NIS.ppt)<br>[pdf](../slide/hwk4_NFS+NIS.pdf) |
+| 12/27 | Secure Your Servers<br>Web Hosting<br>Web Hosting | [Chap21: ppt](../slide/21_Security.ppt)<br>[pdf](../slide/21_Security.pdf)<br>[Chap22: ppt](../slide/22_Web%20Hosting.ppt)<br>[pdf](../slide/22_Web%20Hosting.pdf) |
+| 01/03 | Web Hosting<br>Installing/Administrating Web Servers | [Web Servers: ppt](../slide/hwk5a_installing%20webservers.ppt)<br>[pdf](../slide/hwk5a_installing%20webservers.pdf) |
+| 01/10 | Printing and Samba<br>Printing<br>Samba | [Chap23: ppt](../slide/23_Printing.ppt)<br>[pdf](../slide/23_Printing.pdf)<br>[Samba: ppt](../slide/hwk5b_samba.ppt)<br>[pdf](../slide/hwk5b_samba.pdf) |
+| 01/17 |  | |
+| 01/24 | @~ Deadline | |
+
+---
