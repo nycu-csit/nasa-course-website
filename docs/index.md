@@ -15,11 +15,11 @@ hero:
 
 features:
   - title: "Computer System Administration (SA)"
-    details: "課程內容：Unix/Linux、Shell、檔案系統、服務與設定、ZFS、備份、Web 與 FAMP、PKI、NFS/NIS、效能與安全"
+    details: "課程內容：Unix/Linux、Shell、檔案系統、程序與排程、ZFS、Web 與 FAMP、Driver/Kernel、PKI 等"
     link: "/sa/"
     linkText: "前往 SA 首頁"
   - title: "Computer Network Administration (NA)"
-    details: "課程內容：網路基礎、路由與交換、服務部署、監控、資安防護與最佳化"
+    details: "課程內容：DNS、Mail Server、VPN、Firewall、Routing、DHCP/NAT、LDAP、SNMP 等"
     link: "/na/"
     linkText: "前往 NA 首頁"
 ---
