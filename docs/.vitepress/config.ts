@@ -80,7 +80,7 @@ function getNaSidebar() {
 }
 
 export default {
-  title: "NYCU NASA Course",
+  title: "NASA Course Website",
   srcDir: ".",
   transformPageData(pageData) {
     try {
@@ -163,5 +163,11 @@ export default {
       { text: "推薦書籍", link: "/recommended-books" },
       { text: "相關連結", link: "/related-links" },
     ],
+    search: {
+      provider: "local",
+    },
+    footer: {
+      copyright: "Copyright © 2004–2025 NYCU CSIT",
+    },
   },
 };
