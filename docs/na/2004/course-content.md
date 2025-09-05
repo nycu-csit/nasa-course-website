@@ -1,0 +1,33 @@
+---
+title: NA - 2004 課程內容
+---
+
+# NA - 2004 課程內容
+
+## 課程投影片
+
+| Date  | Lecture | Slides |
+| ----- | ------- | ------ |
+| 02/23 | Introduction to Course Contents<br>Syllabus, Grade Policy | [Syllabus.pdf](slides/Syllabus.pdf) |
+| 03/02 | Review of TCP/IP Protocols<br>Chapter13 TCP/IP Networking | [TCPIP_Protocols.pdf](slides/TCPIP_Protocols.pdf) |
+| 03/09 | Network Environments<br>Chapter14 Routing<br>Chapter15 Network Hardware | [Routing.pdf](slides/Routing.pdf)<br>[NetworkHardware.pdf](slides/NetworkHardware.pdf) |
+| 03/16 | TCP/IP Configurations<br>Network and Network Service Configuration<br>Introduction to Cisco switch<br>Introduction to 3COM switch | [NAT_DHCP_IPFW.pdf](slides/NAT_DHCP_IPFW.pdf) |
+| 03/23 | Perl Programming | [PerlProgramming.pdf](slides/PerlProgramming.pdf) |
+| 03/30 | SMTP and Sendmail<br>Mail systems and SMTP protocol<br>Basic sendmail configuration | [MailSystem.pdf](slides/MailSystem.pdf)<br>[SendMail.pdf](slides/SendMail.pdf) |
+| 04/06 | First Examinations |  |
+| 04/13 | SMTP and Sendmail<br>Advanced sendmail management | [SendMail.pdf](slides/SendMail.pdf) |
+| 04/20 | Postfix mail system |  |
+| 04/27 | Advanced Mail System Management<br>Anti-Virus<br>Spam-Mail |  |
+| 05/04 | Domain Name System<br>DNS basics<br>BIND Configuration | [DNS_BIND.pdf](slides/DNS_BIND.pdf) |
+| 05/11 | Second Examinations |  |
+| 05/18 | Domain Name System<br>Advanced Features | [DNS_BIND.pdf](slides/DNS_BIND.pdf) |
+| 05/25 | Usenet News Server<br>Usenet basics<br>INN configuration | [Usenet.pdf](slides/Usenet.pdf) |
+| 06/01 | Network Management<br>SNMP, SNMPv2, and SNMPv3<br>RMON 1, RMON 2 |  |
+| 06/08 | Proxy and MRTG |  |
+| 06/15 | Third Examinations |  |
+| 06/22 |  |  |
+| 06/29 |  |  |
+
+---
+
+[返回 NA 首頁](/na/)
