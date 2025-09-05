@@ -8,24 +8,24 @@ title: NA - 2015 課程內容
 
 | Lecture | Slides |
 | ------- | ------ |
-| TCP/IP Protocols | [02_TCPIP_Protocols.pdf](slides/02_TCPIP_Protocols.pdf) |
-| Advanced Mail | [AdvancedMail.pdf](slides/AdvancedMail.pdf) |
-| Basis of Mail System | [Basis of Mail System.pdf](slides/Basis of Mail System.pdf) |
-| DHCP NAT | [DHCP_NAT.pdf](slides/DHCP_NAT.pdf) |
-| DNS | [DNS.pdf](slides/DNS.pdf) |
-| FTP | [FTP.pdf](slides/FTP.pdf) |
-| HW2 | [HW2.pdf](slides/HW2.pdf) |
-| HW3 | [HW3.pdf](slides/HW3.pdf) |
-| HW5 | [HW5.pdf](slides/HW5.pdf) |
-| Hw4 | [Hw4.pdf](slides/Hw4.pdf) |
-| Mail System | [MailSystem.pdf](slides/MailSystem.pdf) |
-| Postfix | [Postfix.pdf](slides/Postfix.pdf) |
-| SNMP | [SNMP.pdf](slides/SNMP.pdf) |
-| Syllabus | [Syllabus.pdf](slides/Syllabus.pdf) |
-| VLAN | [VLAN.pdf](slides/VLAN.pdf) |
-| VPN | [VPN.pdf](slides/VPN.pdf) |
-| mpd | [mpd.pdf](slides/mpd.pdf) |
-| systemd | [systemd.pdf](slides/systemd.pdf) |
+| TCP/IP Protocols | [02_TCPIP_Protocols.pdf](/assets/na/2015/02_TCPIP_Protocols.pdf) |
+| Advanced Mail | [AdvancedMail.pdf](/assets/na/2015/AdvancedMail.pdf) |
+| Basis of Mail System | [Basis of Mail System.pdf](/assets/na/2015/Basis of Mail System.pdf) |
+| DHCP NAT | [DHCP_NAT.pdf](/assets/na/2015/DHCP_NAT.pdf) |
+| DNS | [DNS.pdf](/assets/na/2015/DNS.pdf) |
+| FTP | [FTP.pdf](/assets/na/2015/FTP.pdf) |
+| HW2 | [HW2.pdf](/assets/na/2015/HW2.pdf) |
+| HW3 | [HW3.pdf](/assets/na/2015/HW3.pdf) |
+| HW5 | [HW5.pdf](/assets/na/2015/HW5.pdf) |
+| Hw4 | [Hw4.pdf](/assets/na/2015/Hw4.pdf) |
+| Mail System | [MailSystem.pdf](/assets/na/2015/MailSystem.pdf) |
+| Postfix | [Postfix.pdf](/assets/na/2015/Postfix.pdf) |
+| SNMP | [SNMP.pdf](/assets/na/2015/SNMP.pdf) |
+| Syllabus | [Syllabus.pdf](/assets/na/2015/Syllabus.pdf) |
+| VLAN | [VLAN.pdf](/assets/na/2015/VLAN.pdf) |
+| VPN | [VPN.pdf](/assets/na/2015/VPN.pdf) |
+| mpd | [mpd.pdf](/assets/na/2015/mpd.pdf) |
+| systemd | [systemd.pdf](/assets/na/2015/systemd.pdf) |
 
 ---
 

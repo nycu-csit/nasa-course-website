@@ -8,25 +8,25 @@ title: NA - 2025 課程內容
 
 | Lecture | Slides |
 | ------- | ------ |
-| Syllabus | [00_Syllabus.pdf](slides/00_Syllabus.pdf) |
-| Network Introduction | [01_Network_Introduction.pdf](slides/01_Network_Introduction.pdf) |
-| Routing | [02_Routing.pdf](slides/02_Routing.pdf) |
-| DHCP NAT | [03_DHCP_NAT.pdf](slides/03_DHCP_NAT.pdf) |
-| Firewall | [04_Firewall.pdf](slides/04_Firewall.pdf) |
-| VPN | [05_VPN.pdf](slides/05_VPN.pdf) |
-| OpenVPN | [06_OpenVPN.pdf](slides/06_OpenVPN.pdf) |
-| WireGuard | [07_WireGuard.pdf](slides/07_WireGuard.pdf) |
-| DNS | [11_DNS.pdf](slides/11_DNS.pdf) |
-| BIND | [12_BIND.pdf](slides/12_BIND.pdf) |
-| MailSystem | [13_MailSystem.pdf](slides/13_MailSystem.pdf) |
-| Postfix | [14_Postfix.pdf](slides/14_Postfix.pdf) |
-| LDAP | [16_LDAP.pdf](slides/16_LDAP.pdf) |
-| SNMP | [17_SNMP.pdf](slides/17_SNMP.pdf) |
-| ConfigMgmt | [18_ConfigMgmt.pdf](slides/18_ConfigMgmt.pdf) |
-| HW1 | [HW1.pdf](slides/HW1.pdf) |
-| hw2 | [hw2.pdf](slides/hw2.pdf) |
-| hw3 | [hw3.pdf](slides/hw3.pdf) |
-| hw4 | [hw4.pdf](slides/hw4.pdf) |
+| Syllabus | [00_Syllabus.pdf](/assets/na/2025/00_Syllabus.pdf) |
+| Network Introduction | [01_Network_Introduction.pdf](/assets/na/2025/01_Network_Introduction.pdf) |
+| Routing | [02_Routing.pdf](/assets/na/2025/02_Routing.pdf) |
+| DHCP NAT | [03_DHCP_NAT.pdf](/assets/na/2025/03_DHCP_NAT.pdf) |
+| Firewall | [04_Firewall.pdf](/assets/na/2025/04_Firewall.pdf) |
+| VPN | [05_VPN.pdf](/assets/na/2025/05_VPN.pdf) |
+| OpenVPN | [06_OpenVPN.pdf](/assets/na/2025/06_OpenVPN.pdf) |
+| WireGuard | [07_WireGuard.pdf](/assets/na/2025/07_WireGuard.pdf) |
+| DNS | [11_DNS.pdf](/assets/na/2025/11_DNS.pdf) |
+| BIND | [12_BIND.pdf](/assets/na/2025/12_BIND.pdf) |
+| MailSystem | [13_MailSystem.pdf](/assets/na/2025/13_MailSystem.pdf) |
+| Postfix | [14_Postfix.pdf](/assets/na/2025/14_Postfix.pdf) |
+| LDAP | [16_LDAP.pdf](/assets/na/2025/16_LDAP.pdf) |
+| SNMP | [17_SNMP.pdf](/assets/na/2025/17_SNMP.pdf) |
+| ConfigMgmt | [18_ConfigMgmt.pdf](/assets/na/2025/18_ConfigMgmt.pdf) |
+| HW1 | [HW1.pdf](/assets/na/2025/HW1.pdf) |
+| hw2 | [hw2.pdf](/assets/na/2025/hw2.pdf) |
+| hw3 | [hw3.pdf](/assets/na/2025/hw3.pdf) |
+| hw4 | [hw4.pdf](/assets/na/2025/hw4.pdf) |
 
 ---
 
