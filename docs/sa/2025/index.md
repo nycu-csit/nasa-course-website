@@ -10,7 +10,7 @@ title: SA 2025
 
 | Date  | Lecture | Slides |
 |-------|-------------|----------|
-| 9/01 | Syllabus<br>Install Debian<br>Install Applications<br>Homework 0 Announcement: Install Debian and Wireguard | [Syllabus](slides/Syllabus.pdf)<br>[Install Debian](slides/Install_Debian.pdf)<br>[Install Applications](slides/Install_Application.pdf)<br>HW0: |
+| 9/01 | Syllabus<br>Install Debian<br>Install Applications<br>Homework 0 Announcement: Install Debian and Wireguard | [Syllabus](/assets/sa/2025/Syllabus.pdf)<br>[Install Debian](/assets/sa/2025/Install_Debian.pdf)<br>[Install Applications](/assets/sa/2025/Install_Application.pdf)<br>HW0: |
 | 9/8 | Shell | Shell Command: |
 | 9/15 | Shell Programming<br>Homework 1 Announcement: Shell Script, System Info., Docker | Shell Programming:<br>HW1: |
 | 9/22 | Linux Networking and Commands<br>Shell Programming | Linux Networking and Commands:<br>Shell Programming: |
