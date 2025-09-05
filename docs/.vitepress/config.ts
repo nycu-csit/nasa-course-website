@@ -69,12 +69,66 @@ function getSaSidebar() {
 }
 
 function getNaSidebar() {
+  const __dirnameLocal = path.dirname(fileURLToPath(import.meta.url));
+  const naDir = path.resolve(__dirnameLocal, "../na");
+  let yearDirs: string[] = [];
+  try {
+    yearDirs = fs
+      .readdirSync(naDir, { withFileTypes: true })
+      .filter((d) => d.isDirectory() && /^\d{4}$/.test(d.name))
+      .map((d) => d.name)
+      .sort((a, b) => Number(b) - Number(a));
+  } catch (_) {
+    yearDirs = [];
+  }
+
+  const graduateYearsSet = new Set(["2015", "2016", "2018"]);
+  const undergraduateYears = yearDirs
+    .filter((y) => !graduateYearsSet.has(y))
+    .sort((a, b) => Number(b) - Number(a));
+  const graduateYears = yearDirs
+    .filter((y) => graduateYearsSet.has(y))
+    .sort((a, b) => Number(b) - Number(a));
+
+  const buildYearItems = (years: string[]) =>
+    years.map((year) => {
+      const yearPath = `/na/${year}/`;
+      const absYearDir = path.join(naDir, year);
+      const hasCourseInfo = fs.existsSync(
+        path.join(absYearDir, "course-info.md")
+      );
+      const hasCourseContent = fs.existsSync(
+        path.join(absYearDir, "course-content.md")
+      );
+
+      let items: { text: string; link: string }[];
+      if (hasCourseInfo || hasCourseContent) {
+        items = [
+          ...(hasCourseInfo
+            ? [{ text: "課程資訊", link: `${yearPath}course-info` }]
+            : []),
+          ...(hasCourseContent
+            ? [{ text: "課程內容", link: `${yearPath}course-content` }]
+            : []),
+        ];
+      } else {
+        items = [{ text: "總覽", link: `${yearPath}` }];
+      }
+      return { text: year, collapsible: true, collapsed: true, items };
+    });
+
   return [
     {
-      text: "NA",
+      text: "Undergraduate (NA)",
       collapsible: true,
       collapsed: false,
-      items: [{ text: "總覽", link: "/na/" }],
+      items: buildYearItems(undergraduateYears),
+    },
+    {
+      text: "Graduate (NAP)",
+      collapsible: true,
+      collapsed: true,
+      items: buildYearItems(graduateYears),
     },
   ];
 }
@@ -167,8 +221,10 @@ export default {
       provider: "local",
     },
     footer: {
-      message: "If you ever use any materials from this website, please let us know (by sending email to tsaimh [at] cs.nycu.edu.tw).",
-      copyright: "Copyright © 2004–2025 NYCU CSIT (Information Technology Center, Department of Computer Science, National Yang Ming Chiao Tung University)",
+      message:
+        "If you ever use any materials from this website, please let us know (by sending email to tsaimh [at] cs.nycu.edu.tw).",
+      copyright:
+        "Copyright © 2004–2025 NYCU CSIT (Information Technology Center, Department of Computer Science, National Yang Ming Chiao Tung University)",
     },
   },
 };
