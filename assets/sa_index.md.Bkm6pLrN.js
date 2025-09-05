@@ -1,1 +1,0 @@
-import{_ as e,c as t,o as a}from"./chunks/framework.DRADY2L-.js";const m=JSON.parse('{"title":"","description":"","frontmatter":{"layout":"docs"},"headers":[],"relativePath":"sa/index.md","filePath":"sa/index.md"}'),s={name:"sa/index.md"};function n(o,r,c,d,i,p){return a(),t("div")}const f=e(s,[["render",n]]);export{m as __pageData,f as default};
