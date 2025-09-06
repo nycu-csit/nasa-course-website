@@ -8,7 +8,7 @@ hero:
   actions:
     - theme: brand
       text: NASA OJ
-      link: https://nasaoj.cs.nycu.edu.tw/
+      link: https://nasaoj-v3.it.cs.nycu.edu.tw/
     - theme: alt
       text: GitHub
       link: https://github.com/nycu-csit
