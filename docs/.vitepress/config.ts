@@ -205,6 +205,21 @@ export default {
       }
     } catch {}
   },
+  markdown: {
+    config(md) {
+      const defaultRender =
+        md.renderer.rules.link_open ||
+        function (tokens, idx, options, env, self) {
+          return self.renderToken(tokens, idx, options);
+        };
+      md.renderer.rules.link_open = function (tokens, idx, options, env, self) {
+        const token = tokens[idx];
+        token.attrSet("target", "_blank");
+        token.attrSet("rel", "noopener noreferrer");
+        return defaultRender(tokens, idx, options, env, self);
+      };
+    },
+  },
   themeConfig: {
     sidebar: {
       "/sa/": getSaSidebar(),
