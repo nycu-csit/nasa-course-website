@@ -237,9 +237,8 @@ export default {
     },
     footer: {
       message:
-        "If you ever use any materials from this website, please let us know (by sending email to tsaimh [at] cs.nycu.edu.tw).",
-      copyright:
-        "Copyright © 2004–2025 NYCU CSIT (Information Technology Center, Department of Computer Science, National Yang Ming Chiao Tung University)",
+        'If you ever use any materials from this website, please let us know (by sending email to <a href="mailto:tsaimh@cs.nycu.edu.tw">tsaimh@cs.nycu.edu.tw</a>).',
+      copyright: `Copyright © 2004–${new Date().getFullYear()} NYCU CSIT (Information Technology Center, Department of Computer Science, National Yang Ming Chiao Tung University)`,
     },
   },
 };
