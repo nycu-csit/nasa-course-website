@@ -1,19 +1,20 @@
 ---
-layout: docs
+title: NA
 ---
 
-# NA (Computer Network Administration) — course pages index
+# NA (Computer Network Administration)
 
-
-- 2004 — [Course info](/na/2004/course-info) | [Course content](/na/2004/course-content)
-- 2005 — [Course info](/na/2005/course-info) | [Course content](/na/2005/course-content)
-- 2009 — [Course info](/na/2009/course-info) | [Course content](/na/2009/course-content)
-- 2012 — [Course info](/na/2012/course-info) | [Course content](/na/2012/course-content)
-- 2013 — [Course info](/na/2013/course-info) | [Course content](/na/2013/course-content)
-- 2014 — [Course info](/na/2014/course-info) | [Course content](/na/2014/course-content)
-- 2020 — [Course info](/na/2020/course-info) | [Course content](/na/2020/course-content)
-- 2021 — [Course info](/na/2021/course-info) | [Course content](/na/2021/course-content)
-- 2022 — [Course info](/na/2022/course-info) | [Course content](/na/2022/course-content)
-- 2023 — [Course info](/na/2023/course-info) | [Course content](/na/2023/course-content)
-- 2024 — [Course info](/na/2024/course-info) | [Course content](/na/2024/course-content)
-- 2025 — [Course info](/na/2025/course-info) | [Course content](/na/2025/course-content)
+| Year | Course Info | Course Content |
+|------|-------------|----------------|
+| 2025 | [課程資訊](/na/2025/course-info) | [課程內容](/na/2025/course-content) |
+| 2024 | [課程資訊](/na/2024/course-info) | [課程內容](/na/2024/course-content) |
+| 2023 | [課程資訊](/na/2023/course-info) | [課程內容](/na/2023/course-content) |
+| 2022 | [課程資訊](/na/2022/course-info) | [課程內容](/na/2022/course-content) |
+| 2021 | [課程資訊](/na/2021/course-info) | [課程內容](/na/2021/course-content) |
+| 2020 | [課程資訊](/na/2020/course-info) | [課程內容](/na/2020/course-content) |
+| 2014 | [課程資訊](/na/2014/course-info) | [課程內容](/na/2014/course-content) |
+| 2013 | [課程資訊](/na/2013/course-info) | [課程內容](/na/2013/course-content) |
+| 2012 | [課程資訊](/na/2012/course-info) | [課程內容](/na/2012/course-content) |
+| 2009 | [課程資訊](/na/2009/course-info) | [課程內容](/na/2009/course-content) |
+| 2005 | [課程資訊](/na/2005/course-info) | [課程內容](/na/2005/course-content) |
+| 2004 | [課程資訊](/na/2004/course-info) | [課程內容](/na/2004/course-content) |
