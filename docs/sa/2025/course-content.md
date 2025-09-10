@@ -9,7 +9,7 @@ title: SA - 2025 課程內容
 | Date  | Lecture | Slides |
 |-------|-------------|----------|
 | 9/01 | Syllabus<br>Install Debian<br>Install Applications<br>Homework 0 Announcement: Install Debian and Wireguard | [Syllabus](/sa/2025/Syllabus.pdf)<br>[Install Debian](/sa/2025/Install_Debian.pdf)<br>[Install Applications](/sa/2025/Install_Application.pdf)<br>[HW0](/sa/2025/hw0.pdf) |
-| 9/8 | Shell | Shell Command: |
+| 9/8 | Shell | [Shell](/sa/2025/03_Shell.pdf) |
 | 9/15 | Shell Programming<br>Homework 1 Announcement: Shell Script, System Info., Docker | Shell Programming:<br>HW1: |
 | 9/22 | Linux Networking and Commands<br>Shell Programming | Linux Networking and Commands:<br>Shell Programming: |
 | 9/29 | Teacher's Day (no class)<br>Docker and Container (with pre-recorded video) |  |
