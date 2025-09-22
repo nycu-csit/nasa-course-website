@@ -17,14 +17,6 @@ title: SA - 2025 課程內容
 | 10/13 | Linux Networking and Commands<br>Booting Up and Shutting Down | Linux Networking and Commands: <br>Boot&ShutDown: |
 | 10/20 | 期中考<br>Homework 1 Deadline |  |
 | 10/27 | Syslog<br>Periodic Processes<br>systemd + journal<br>cgroup<br>Homework 2 Announcement: File Server and Filesystem | Syslog:<br>Periodic Processes:<br>systemd and journal:<br>cgroup:<br>HW2: |
-| 9/15 | Shell Programming<br>Homework 1 Announcement: Shell Script, System Info., Docker | [Shell Programming](/sa/2025/04_ShellProgramming.pdf)<br>[HW1](/sa/2025/hw1.pdf) |
-| 9/22 | Linux Networking and Commands<br>Shell Programming | Linux Networking and Commands:<br>Shell Programming: |
-| 9/29 | Teacher's Day (no class)<br>Docker and Container (self study) |  |
-| 10/6 | Mid-Autumn Festival (no class) |  |
-| 10/13 | Booting Up and Shutting Down<br>Controlling Process<br>User Management<br>Homework 1 Deadline<br>Homework 2 Announcement: File Server and Filesystem | Boot&ShutDown:<br>Controlling Process:<br>User Management:<br>HW2: |
-| 10/20 | 期中考週 (no class) |  |
-| 10/27 | Syslog<br>Periodic Processes<br>systemd + journal<br>cgroup | Syslog:<br>Periodic Processes:<br>systemd and journal:<br>cgroup: |
->>>>>>> refs/remotes/origin/main
 | 11/03 | Disk and Filesystem<br>BTRFS<br>LVM | Disk and Filesystem:<br>BTRFS:<br>LVM: |
 | 11/10 | Docker<br>Web<br>Homework 2 Deadline<br>Homework 3 Announcement: Web Service | Docker:<br>Web:<br><br>HW3: |
 | 11/17 | Nginx<br>Traefik<br>PostgreSQL<br>PKI | Nginx:<br>Traefik:<br>PostgreSQL:<br>PKI: |
