@@ -12,10 +12,10 @@ title: SA - 2025 課程內容
 | 9/8 | Shell | [Shell](/sa/2025/03_Shell.pdf) |
 | 9/15 | Shell Programming <br>*Homework 1 Announcement: Shell Script, System Info., Docker* | [Shell Programming](/sa/2025/04_ShellProgramming.pdf) <br> [HW1](/sa/2025/hw1.pdf) |
 | 9/22 | User Management<br>Controlling Process | [User Management](/sa/2025/07_User_Management.pdf)<br>[Controlling Process](/sa/2025/08_Controlling_Process.pdf) |
-| 9/29 | Teacher's Day **(no class)**<br>Docker and Container (with pre-recorded video) |  |
+| 9/29 | Teacher's Day **(no class)** |  |
 | 10/6 | Mid-Autumn Festival **(no class)** |  |
 | 10/13 | Linux Networking and Commands<br>Booting Up and Shutting Down | Linux Networking and Commands: <br>Boot&ShutDown: |
-| 10/20 | 期中考 **(no class)** <br>*Homework 1 Deadline* |  |
+| 10/20 | 期中考週 **(no class; no exam)** <br>*Homework 1 Deadline* |  |
 | 10/27 | Syslog<br>Periodic Processes<br>systemd + journal<br>cgroup<br>*Homework 2 Announcement: File Server and Filesystem* | Syslog:<br>Periodic Processes:<br>systemd and journal:<br>cgroup:<br>HW2: |
 | 11/03 | 業師課程: TBD | TBD: |
 | 11/10 | Disk and Filesystem<br>BTRFS<br>LVM<br>*Homework 2 Deadline*<br> *Homework 3 Announcement: Web Service* | Disk and Filesystem:<br>BTRFS:<br>LVM:<br>HW3 |
