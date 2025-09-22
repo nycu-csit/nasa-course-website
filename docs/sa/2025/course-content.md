@@ -11,10 +11,10 @@ title: SA - 2025 課程內容
 | 9/01 | Syllabus<br>Install Debian<br>Install Applications<br>Homework 0 Announcement: Install Debian and Wireguard | [Syllabus](/sa/2025/Syllabus.pdf)<br>[Install Debian](/sa/2025/Install_Debian.pdf)<br>[Install Applications](/sa/2025/Install_Application.pdf)<br>[HW0](/sa/2025/hw0.pdf) |
 | 9/8 | Shell | [Shell](/sa/2025/03_Shell.pdf) |
 | 9/15 | Shell Programming <br>Homework 1 Announcement: Shell Script, System Info., Docker | Shell Programming:<br>HW1: | [Shell Programming](/sa/2025/04_ShellProgramming.pdf)
-| 9/22 | Linux Networking and Commands<br>Shell Programming | Linux Networking and Commands:<br>Shell Programming: |
+| 9/22 | User Management<br>Controlling Process | [User Management](/sa/2025/07_User_Management.pdf)<br>[Controlling Process](/sa/2025/08_Controlling_Process.pdf) |
 | 9/29 | Teacher's Day (no class)<br>Docker and Container (with pre-recorded video) |  |
 | 10/6 | Mid-Autumn Festival (no class) |  |
-| 10/13 | Booting Up and Shutting Down<br>Controlling Process<br>User Management | Boot&ShutDown:<br>Controlling Process:<br>User Management: |
+| 10/13 | Linux Networking and Commands<br>Booting Up and Shutting Down | Linux Networking and Commands: <br>Boot&ShutDown: |
 | 10/20 | 期中考<br>Homework 1 Deadline |  |
 | 10/27 | Syslog<br>Periodic Processes<br>systemd + journal<br>cgroup<br>Homework 2 Announcement: File Server and Filesystem | Syslog:<br>Periodic Processes:<br>systemd and journal:<br>cgroup:<br>HW2: |
 | 11/03 | Disk and Filesystem<br>BTRFS<br>LVM | Disk and Filesystem:<br>BTRFS:<br>LVM: |
