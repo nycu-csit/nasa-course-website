@@ -12,7 +12,7 @@ title: SA - 2025 課程內容
 | 9/8 | Shell | [Shell](/sa/2025/03_Shell.pdf) |
 | 9/15 | Shell Programming <br>*Homework 1 Announcement: Shell Script, System Info., Docker* | [Shell Programming](/sa/2025/04_ShellProgramming.pdf) <br> [HW1](/sa/2025/hw1.pdf) |
 | 9/22 | User Management | [User Management](/sa/2025/07_User_Management.pdf) |
-| 9/29 | Teacher's Day **(no class)** |  |
+| 9/29 | Teacher's Day **(no class)** | [Self-study: Docker - Basic](/sa/2025/Docker_Basic.pdf) |
 | 10/6 | Mid-Autumn Festival **(no class)** |  |
 | 10/13 | Linux Networking and Commands<br>Booting Up and Shutting Down | Linux Networking and Commands: <br>Boot&ShutDown: |
 | 10/20 | 期中考週 **(no class; no exam)** <br>*Homework 1 Deadline* |  |
