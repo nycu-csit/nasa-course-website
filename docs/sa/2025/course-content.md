@@ -18,11 +18,11 @@ title: SA - 2025 課程內容
 | 10/20 | 期中考週 **(no class; no exam)** |  |
 | 10/27 | Controlling Process<br>Periodic Processes<br>Syslog | [Controlling Process](/sa/2025/08_Controlling_Process.pdf)<br>Periodic Processes: <br> Syslog |
 | 11/03 | 業師課程: TBD | TBD: |
-| 11/10 | systemd + journal<br>cgroup<br>Disk and Filesystem<br>BTRFS<br>LVM<br>*Homework 2 Deadline*<br> *Homework 3 Announcement: Web Service* | <br>systemd and journal:<br>cgroup: <br>Disk and Filesystem:<br>BTRFS:<br>LVM:<br>HW3 |
-| 11/17 | Docker<br>Web | Docker:<br>Web:<br> |
+| 11/10 | systemd + journal<br>cgroup<br>Disk and Filesystem<br>BTRFS<br>LVM<br>*Homework 3 Announcement: Web Service* | <br>systemd and journal:<br>cgroup: <br>Disk and Filesystem:<br>BTRFS:<br>LVM:<br>HW3 |
+| 11/17 | Docker<br>Web<br>*Homework 2 Deadline* | Docker:<br>Web:<br> |
 | 11/24 | Nginx<br>Traefik<br>PostgreSQL<br>PKI<br>**Kind Remind: Deadline for course withdrawal: 11/28** | Nginx:<br>Traefik:<br>PostgreSQL:<br>PKI: |
-| 12/01 | The Network File System<br>iSCSI | NFS:<br>iSCSI: |
-| 12/8 | 業師課程: TBD | TBD: |
+| 12/01 | 業師課程: TBD | TBD: |
+| 12/08 | The Network File System<br>iSCSI | NFS:<br>iSCSI: |
 | 12/14-12/15 | 上機考 at 12/14<br>筆試 at 12/15<br>*Homework 3 Deadline at 12/15* |  |
 
 ---
