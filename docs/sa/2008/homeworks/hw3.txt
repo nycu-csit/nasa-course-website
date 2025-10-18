@@ -1,3 +1,263 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:426f8b8172fec09ab411d043e23b05c4a380b5a70a1b52e0e7802600f6d843c8
-size 10423
+Shell Script
+
+**** Note: all scripts must be written in sh (/bin/sh) in FreeBSD system ****
+
+1-1)(10%)Write a script that prints the required lines of the following commands'
+         results. Only print the lines which contains "current user".
+
+    a. fstat
+    b. sockstat
+    c. last
+    d. ps aux
+    e. cat /etc/passwd
+
+   requirement:
+
+    a. Complete all five commands in the script called "hw3_1_1.sh"
+
+   example :
+
+   In jayson12's FreeBSD system, he got the following results after he did the
+   five commands separately.
+    % who
+      jayson12         ttyp0    Oct  9 07:18 (jayson12)
+
+    % fstat; sockstat; last; ps aux ; cat /etc/passwd
+      
+      jayson12 sshd       42364    7 /dev         95 crw-rw-rw-   ptyp1 rw
+      jayson12 sshd       42364    8 /dev         95 crw-rw-rw-   ptyp1 rw
+      jayson12 sshd       42364    9 /dev         95 crw-rw-rw-   ptyp1 rw
+      root     sshd       42361 root /             2 drwxr-xr-x     512  r
+      root     sshd       42361   wd /             2 drwxr-xr-x     512  r
+      root     sshd       42361 text /        238534 -r-xr-xr-x  194032  r
+
+      jayson12 sshd       40143 4  stream -> ??
+      root     sshd       40140 3  tcp4   140.113.235.152:22 140.113.235.151:46444
+      root     sshd       40140 5  stream -> ??
+      smmsp    sendmail   636   3  dgram  -> /var/run/log
+      root     sendmail   630   3  dgram  -> /var/run/logpriv
+      root     sendmail   630   4  tcp4   127.0.0.1:25          *:*
+
+      jayson12         ttyp0    linux1           10 22 15:52   still      logged in
+      sysadm           ftp      localhost        10 14 14:49 - 14:49      (00:00)
+      jayson12         ftp      localhost        10 14 14:49 - 14:49      (00:00)
+      ftp              ftp      nat235.dynamic.  10 14 14:39 - 14:40      (01:11)
+      sysadm           ftp      localhost        10 14 14:23 - 14:23      (00:00)
+      jayson12         ftp      localhost        10 14 14:22 - 14:22      (00:00)
+      sysadm           ftp      localhost        10 14 14:06 - 14:06      (00:00)
+
+      smmsp      636  0.0  0.4  5848  2148  ??  Is    61008    0:01.57   sendmail: Queue runner@00:30:00 for /var/spool/clientmqueue (sendmail)
+      root       642  0.0  0.2  3184   956  ??  Ss    61008    0:13.15   /usr/sbin/cron -s
+      root       658  0.0  0.1  3240   696  ??  Is    61008    0:00.00   /usr/sbin/moused -p /dev/psm0 -t auto
+      root     40140  0.0  0.6  8384  2908  ??  Is    3:52     0:00.09   sshd: jayson12 [priv] (sshd)
+      jayson12 40143  0.0  0.6  8384  2916  ??  I     3:52     0:00.19   sshd: jayson12@ttyp0 (sshd)
+      root     42361  0.0  0.6  8384  2976  ??  Is    8:59     0:00.08   sshd: jayson12 [priv] (sshd)
+      jayson12 42364  0.0  0.6  8384  2968  ??  S     8:59     0:00.58   sshd: jayson12@ttyp1 (sshd)
+      root       703  0.0  0.1  3156   744  v0  Is+   61008    0:00.00   /usr/libexec/getty Pc ttyv0
+
+      root:*:0:0:Charlie &:/root:/bin/csh
+      www:*:80:80:World Wide Web Owner:/nonexistent:/usr/sbin/nologin
+      ftp:*:1002:1002:I am ftp:/home/ftp:/usr/sbin/nologin
+      jayson12:*:1001:0:limc:/home/jayson12:/bin/tcsh
+      sysadm:*:1003:1003:User &:/home/sysadm:/bin/tcsh
+
+    When he ran his shell script hw3_1_1.sh, he got the following. (Notice the
+    difference between running with and without sudo.)
+
+    % ./hw3_1_1.sh
+
+      jayson12 sshd       42364    7 /dev         95 crw-rw-rw-   ptyp1 rw
+      jayson12 sshd       42364    8 /dev         95 crw-rw-rw-   ptyp1 rw
+      jayson12 sshd       42364    9 /dev         95 crw-rw-rw-   ptyp1 rw
+      jayson12 sshd       40143 4  stream -> ??
+      jayson12         ttyp0    linux1           10 22 15:52   still  logged in
+      jayson12         ftp      localhost        10 14 14:49 - 14:49   (00:00)
+      jayson12         ftp      localhost        10 14 14:22 - 14:22   (00:00)
+      root     40140  0.0  0.6  8384  2908  ??  Is    3:52  0:00.09   sshd: jayson12 [priv] (sshd)
+      jayson12 40143  0.0  0.6  8384  2916  ??  I     3:52  0:00.19   sshd: jayson12@ttyp0 (sshd)
+      root     42361  0.0  0.6  8384  2976  ??  Is    8:59  0:00.08   sshd: jayson12 [priv] (sshd)
+      jayson12 42364  0.0  0.6  8384  2968  ??  S     8:59  0:00.58   sshd: jayson12@ttyp1 (sshd)
+      jayson12:*:1001:0:limc:/home/jayson12:/bin/tcsh
+    
+    % sudo ./hw3_1_1.sh
+
+      root     sshd       42361 root /             2 drwxr-xr-x     512  r
+      root     sshd       42361   wd /             2 drwxr-xr-x     512  r
+      root     sshd       42361 text /        238534 -r-xr-xr-x  194032  r
+      root     sshd       40140 3  tcp4   140.113.235.152:22 140.113.235.151:46444
+      root     sshd       40140 5  stream -> ?? 
+      root     sendmail   630   3  dgram  ->/var/run/logpriv
+      root     sendmail   630   4  tcp4   127.0.0.1:25  *:*
+      root       642  0.0  0.2  3184   956  ??  Ss    61008    0:13.15      /usr/sbin/cron -s
+      root       658  0.0  0.1  3240   696  ??  Is    61008    0:00.00      /usr/sbin/moused -p /dev/psm0 -t auto
+      root     40140  0.0  0.6  8384  2908  ??  Is    3:52     0:00.09      sshd: jayson12 [priv] (sshd)
+      root     42361  0.0  0.6  8384  2976  ??  Is    8:59     0:00.08      sshd: jayson12 [priv] (sshd)
+      root       703  0.0  0.1  3156   744  v0  Is+   61008    0:00.00      /usr/libexec/getty Pc ttyv0
+      root:*:0:0:Charlie &:/root:/bin/csh
+
+    %
+
+    hint: grep $USER
+
+1-2)(20%)Print the sum of files' size in current directory(not including
+
+    subdirectories). Also, find out the largest and the smallest files, and print
+    
+    their filenames, filesizes and owners.
+
+  Example:
+
+  % ls -l
+   drw-r--r--  2 otaku akiba     512 2007-04-25 10:48 GUNPLA
+   -rw-r--r--  1 otaku akiba     104 2007-05-20 08:55 test_a
+   -rw-r--r--  1 otaku akiba     104 2007-09-15 08:32 mymailpasswd
+   -rw-r--r--  1 otaku akiba   12354 2007-08-03 14:58 get_jpg.sh
+   drw-r--r--  2 otaku akiba     512 2007-11-25 12:03 GUNDAM_animation
+
+  % ./hw3_1_2.sh
+   13586
+   file: mymailpasswd 104 owner: otaku
+   file: get_jpg.sh 12354 owner: otaku
+
+  %
+
+  Requirements:
+   
+   a. All commands in your script should be concatenated by "|"(pipe) in one line.
+      Put this line in the file called "hw3_1_2.sh"
+   b. Any temporary file is not allowed to be created by your script.
+   c. If the number of the largest or the smallest was more than one, choose the
+      last one.If there are more than one largest file or smallest file, print
+	  the last one you processed.
+
+   hint:
+
+       awk sed xargs bc 
+   
+2)(30%)Change filename extension 
+
+  Change all files' filename extension at a specific directory, including subdirectories.
+
+  Example:
+
+  % cd /tmp
+  % ls -l
+   -rw-r--r--  1 test  wheel    0 Oct 19 15:56 1.test
+   -rw-r--r--  1 test  wheel    0 Oct 19 15:56 2.test
+   -rw-r--r--  1 test  wheel    0 Oct 19 15:56 3.test
+   -rw-r--r--  1 test  wheel    0 Oct 19 15:56 4.test
+   -rw-r--r--  1 test  wheel    0 Oct 19 15:56 5.test
+   drwxr-xr-x  2 test  wheel  512 Oct 19 22:49 kerker
+
+  % cd kerker
+  % ls -l
+   -rw-r--r--  1 test  wheel    0 Oct 19 15:56 10.test
+   -rw-r--r--  1 test  wheel    0 Oct 19 15:56 6.test
+   -rw-r--r--  1 test  wheel    0 Oct 19 15:56 7.test
+   -rw-r--r--  1 test  wheel    0 Oct 19 15:56 8.test
+   -rw-r--r--  1 test  wheel    0 Oct 19 15:56 9.test
+
+  % cd /home/test/
+  % ./hw3_2.sh -d /tmp -f test -t xxx
+  % pwd
+   /home/test/
+
+  % cd /tmp/
+  % ls -l
+   -rw-r--r--  1 test  wheel    0 Oct 19 15:56 1.xxx
+   -rw-r--r--  1 test  wheel    0 Oct 19 15:56 2.xxx
+   -rw-r--r--  1 test  wheel    0 Oct 19 15:56 3.xxx
+   -rw-r--r--  1 test  wheel    0 Oct 19 15:56 4.xxx
+   -rw-r--r--  1 test  wheel    0 Oct 19 15:56 5.xxx
+   drwxr-xr-x  2 test  wheel  512 Oct 19 22:49 kerker
+
+  % cd kerker/
+  % ls -l
+   -rw-r--r--  1 test  wheel    0 Oct 19 15:56 10.xxx
+   -rw-r--r--  1 test  wheel    0 Oct 19 15:56 6.xxx
+   -rw-r--r--  1 test  wheel    0 Oct 19 15:56 7.xxx
+   -rw-r--r--  1 test  wheel    0 Oct 19 15:56 8.xxx
+   -rw-r--r--  1 test  wheel    0 Oct 19 15:56 9.xxx 
+
+  %
+
+  requirement:
+
+   a. All codes should be in the file called "hw3_2.sh".
+
+   b. Input format :
+
+       -d: the target directory when running your program
+
+       -f: the filename extension that should be replaced by the string follow "-t"
+
+       -t: the filenmae extension that you use want to replace the original
+     	   filename extension -f specified
+
+      PS:
+
+         ./hw3_2.sh -d /tmp -f test -t xxx
+         ./hw3_2.sh -t xxx  -d /tmp -f test 
+         ./hw3_2.sh -f test -t xxx  -d /tmp
+
+         These don't have any differences. 
+
+   c. Any temporary file is not allowed to be created by your script.
+
+3) (40%)Use the tool dialog(1) to create required graphical user interface
+   (GUI) program. Your program must contain the items listed below:
+
+   GUI lists:
+
+   a. Center GUI:
+
+       Control all GUIs. It has some options as following:
+
+      Options list:
+
+		Wikipedia: If you choose this option, it will invoke the Wiki GUI.
+
+		Dictionary:If you choose this option, it will invoke the Dict GUI.
+
+		Exit: If you choose this option, it will shutdown this Center GUI.
+                    
+   b. Wiki GUI:
+       
+       Read the input string. 
+
+       Search the string from http://wikipedia.org/, and show the result web pages.
+
+       (hint: just use "w3m" or other text web browsers)
+
+       When Wiki GUI shutdown, it will return to Center GUI.
+
+   c. Dict GUI:
+    
+       Read the input string.
+       
+       connect to google dictionary, look up the string, and finally show the data on the Data GUI. 
+
+       http://www.google.com.tw/dictionary?hl=en
+   
+   d. Data GUI:
+
+       Show the data coming from the google dictionary.
+
+       (just show the first definition or the shortest definition)
+
+       When Data GUI shutdown, it will return to Center GUI.
+
+   hint:
+      
+     a.  /usr/share/examples/dialog
+
+     b.  fetch(1) www/w3m-m17n ftp/wget www/lynx www/link
+
+   Bonus:
+   
+     a. Merge the Dict GUI and the Data GUI into one called merged GUI. The merged GUI must have
+        
+	    an option to go back to the Center GUI. 
+
+     b. Add new options in Center GUI with other services.
+     
