@@ -18,7 +18,7 @@ title: SA - 2025 課程內容
 | 10/20 | 期中考週 **(no class; no exam)** |  |
 | 10/27 | Controlling Process<br>Periodic Processes | [Controlling Process](/sa/2025/08_Controlling_Process.pdf)<br>[Periodic Processes](/sa/2025/09_Periodic_Processes.pdf)  |
 | 11/03 | 業師課程: 軟體工程在工控資安的實務分享 <br>講者1: 李均韋 軟體經理, MOXA<br>講題：Industrial Linux-security and robust filesystem<br>講者2: 賴昭曄 資深資安技術經理<br>講題：Industrial Cybersecurity-你所不知道的工業資安|  |
-| 11/10 | Filesystem<br>LVM<br>BTRFS |[Filesystem](sa/2025/10_FileSystem.pdf)<br>[LVM](/sa/2025/LVM.pdf)<br>[BTRFS](/sa/2025/BTRFS.pdf) |
+| 11/10 | Filesystem<br>LVM<br>BTRFS |[Filesystem](/sa/2025/10_FileSystem.pdf)<br>[LVM](/sa/2025/LVM.pdf)<br>[BTRFS](/sa/2025/BTRFS.pdf) |
 | 11/17 | systemd + journal<br>Docker<br>*Homework 2 Deadline*<br>*Homework 3 Announcement: Web Service* | |
 | 11/24 | Web<br>Web Service<br>PKI<br>**Kind Remind: Deadline for course withdrawal: 11/28** | |
 | 12/01 | 業師課程: TBD | TBD: |
