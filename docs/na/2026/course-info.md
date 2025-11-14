@@ -1,11 +1,11 @@
 ---
-title: NA - 2025 課程資訊
+title: NA - 2026 課程資訊
 ---
 
-# NA - 2025 課程資訊
+# NA - 2026 課程資訊
 
 ## 課程名稱 / Course Title
-- Computer Network Administration (NA, 2025)
+- Network Administration Practice (NA, 2026)
 
 ## 教材 / Textbook & Recommended Books
 - 授課投影片（Slides in course） — 請參考 `slides/` 目錄中的 PDF / PPT 檔案。
