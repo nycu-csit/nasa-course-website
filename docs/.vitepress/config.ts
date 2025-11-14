@@ -82,7 +82,7 @@ function getNaSidebar() {
     yearDirs = [];
   }
 
-  const graduateYearsSet = new Set(["2015", "2016", "2018"]);
+  const graduateYearsSet = new Set(["2015", "2016", "2018", "2026"]);
   const undergraduateYears = yearDirs
     .filter((y) => !graduateYearsSet.has(y))
     .sort((a, b) => Number(b) - Number(a));
