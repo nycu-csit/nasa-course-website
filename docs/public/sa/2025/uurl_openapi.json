@@ -1,0 +1,96 @@
+{
+    "openapi": "3.0.0",
+    "info": {
+        "title": "uurl",
+        "version": "0.0.0"
+    },
+    "paths": {
+        "/-/{short_code}": {
+            "get": {
+                "summary": "Redirects a short URL to its original URL.",
+                "operationId": "redirect",
+                "parameters": [
+                    {
+                        "name": "short_code",
+                        "in": "path",
+                        "required": true,
+                        "schema": {
+                            "type": "string"
+                        }
+                    }
+                ],
+                "responses": {
+                    "303": {
+                        "description": "Redirect to original URL.",
+                        "headers": {
+                            "Location": {
+                                "description": "URL to redirect.",
+                                "schema": {
+                                    "type": "string"
+                                }
+                            }
+                        }
+                    },
+                    "404": {
+                        "description": "Can't find original URL by given short code."
+                    }
+                }
+            }
+        },
+        "/api/shorten": {
+            "post": {
+                "summary": "Creates a new short URL.",
+                "operationId": "create_short_url",
+                "requestBody": {
+                    "content": {
+                        "application/json": {
+                            "schema": {
+                                "$ref": "#/components/schemas/CreateUrlPayload"
+                            }
+                        }
+                    },
+                    "required": true
+                },
+                "responses": {
+                    "201": {
+                        "description": "",
+                        "content": {
+                            "application/json": {
+                                "schema": {
+                                    "$ref": "#/components/schemas/CreateUrlResponse"
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    },
+    "components": {
+        "schemas": {
+            "CreateUrlPayload": {
+                "type": "object",
+                "description": "The payload for creating a new short URL.",
+                "required": [
+                    "url"
+                ],
+                "properties": {
+                    "url": {
+                        "type": "string"
+                    }
+                }
+            },
+            "CreateUrlResponse": {
+                "type": "object",
+                "required": [
+                    "short_code"
+                ],
+                "properties": {
+                    "short_code": {
+                        "type": "string"
+                    }
+                }
+            }
+        }
+    }
+}
