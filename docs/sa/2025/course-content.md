@@ -20,7 +20,7 @@ title: SA - 2025 課程內容
 | 11/03 | 業師課程: 軟體工程在工控資安的實務分享 <br>講者1: 李均韋 軟體經理, MOXA<br>講題：Industrial Linux-security and robust filesystem<br>講者2: 賴昭曄 資深資安技術經理<br>講題：Industrial Cybersecurity-你所不知道的工業資安|  |
 | 11/10 | Filesystem<br>LVM<br>BTRFS |[Filesystem](/sa/2025/10_FileSystem.pdf)<br>[LVM](/sa/2025/LVM.pdf)<br>[BTRFS](/sa/2025/BTRFS.pdf) |
 | 11/17 | systemd + journal<br>Docker - Advanced<br>*Homework 2 Deadline*<br>*Homework 3 Announcement: Web Service* | [systemd](/sa/2025/systemd.pdf)<br>[Docker - Advanced](/sa/2025/Docker_Advanced.pdf)<br>[HW3](/sa/2025/hw3.pdf) |
-| 11/24 | Web<br>Web Service<br>PKI<br>**Kind Remind: Deadline for course withdrawal: 11/28** |[Web](/sa/2025/18_Web.pdf)<br>[PKI](/sa/2025/22_PKI.pdf) |
+| 11/24 | Web<br>Web Service<br>PKI<br>**Kind Remind: Deadline for course withdrawal: 11/28** |[Web](/sa/2025/18_Web.pdf)<br>[Web Service](/sa/2025/Web_Service.pdf)<br>[PKI](/sa/2025/22_PKI.pdf) |
 | 12/01 | 業師課程: TBD | TBD: |
 | 12/08 | The Network File System<br>iSCSI<br>資工系資訊中心招生說明 | |
 | 12/14-12/15 | 上機考 at 12/14<br>筆試 at 12/15<br>*Homework 3 Deadline at 12/15* |  |
