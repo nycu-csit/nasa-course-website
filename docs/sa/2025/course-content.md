@@ -23,7 +23,8 @@ title: SA - 2025 課程內容
 | 11/24 | Web<br>Web Service<br>**Kind Remind: Deadline for course withdrawal: 11/28** |[Web](/sa/2025/18_Web.pdf)<br>[Web Service](/sa/2025/Web_Service.pdf)|
 | 12/01 | 業師課程: 國網中心雲平台系統架構與實作 <br> 講者1: 潘怡倫 博士, NCHC <br> 講者2: 莊家雋 博士 <br> PKI | [雲平台全面規劃](/sa/2025/20251201_交大演講_雲平台全面規劃.pdf)<br><br>[PKI](/sa/2025/22_PKI.pdf) |
 | 12/08 | The Network File System<br>iSCSI<br>資工系資訊中心招生說明 | |
-| 12/14-12/15 | 上機考 at 12/14<br>筆試 at 12/15<br>*Homework 3 Deadline at 12/15* |  |
+| 12/14 | 上機考 at 12/14<br>筆試 at 12/15 |  |
+| 12/23 | *Homework 3 Deadline* |  |
 
 ---
 
