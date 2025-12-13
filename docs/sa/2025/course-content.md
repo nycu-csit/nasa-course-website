@@ -22,7 +22,7 @@ title: SA - 2025 課程內容
 | 11/17 | systemd + journal<br>Docker - Advanced<br>*Homework 2 Deadline*<br>*Homework 3 Announcement: Web Service* | [systemd](/sa/2025/systemd.pdf)<br>[Docker - Advanced](/sa/2025/Docker_Advanced.pdf)<br>[HW3](/sa/2025/hw3.pdf) |
 | 11/24 | Web<br>Web Service<br>**Kind Remind: Deadline for course withdrawal: 11/28** |[Web](/sa/2025/18_Web.pdf)<br>[Web Service](/sa/2025/Web_Service.pdf)|
 | 12/01 | 業師課程: 國網中心雲平台系統架構與實作 <br> 講者1: 潘怡倫 博士, NCHC <br> 講者2: 莊家雋 博士 <br> PKI | [雲平台全面規劃](/sa/2025/20251201_交大演講_雲平台全面規劃.pdf)<br><br>[PKI](/sa/2025/22_PKI.pdf) |
-| 12/08 | RightWay 團隊招募<br>The Network File System<br>iSCSI<br>資工系資訊中心招生說明 | [RightWay 團隊招募](https://drive.google.com/file/d/15g5Ph2kIbQnzkuFc2vyWFnU4yeQ3XQmC/view?usp=drive_link)<br>[NFS](/sa/2025/NFS.pdf)<br>[iSCSI](/sa/2025/iSCSI.pdf) |
+| 12/08 | RightWay 團隊招募<br>The Network File System<br>iSCSI<br>資工系資訊中心招生說明 | [RightWay 團隊招募](https://drive.google.com/file/d/15g5Ph2kIbQnzkuFc2vyWFnU4yeQ3XQmC/view?usp=drive_link)<br>[NFS](/sa/2025/NFS.pdf)<br>[iSCSI](/sa/2025/iSCSI.pdf)<br>[資工系資訊中心招生說明](/sa/2025/202512_系資訊中心說明會.pdf) |
 | 12/14 | 上機考 at 12/14<br>筆試 at 12/15 |  |
 | 12/23 | *Homework 3 Deadline* |  |
 
