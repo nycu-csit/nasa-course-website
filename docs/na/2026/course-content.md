@@ -8,7 +8,7 @@ title: NA - 2026 課程內容
 
 | Week # | Date | Lecture | Slides |
 | ------- | ------ | ------ | ------ |
-| 1 | 2/23 | Syllabus | [00_Syllabus.pdf](/na/2025/00_Syllabus.pdf) |
+| 1 | 2/23 | Syllabus<br>Homework 1-0 | [00_Syllabus.pdf](/na/2025/00_Syllabus.pdf)<br>[HW1-0](/na/2026/hw1-0.pdf) |
 | 2 | 3/2 | Network Introduction | [01_Network_Introduction.pdf](/na/2025/01_Network_Introduction.pdf) |
 | 3 | 3/9 | Routing | [02_Routing.pdf](/na/2025/02_Routing.pdf) |
 | 4 | 3/16 | DHCP NAT | [03_DHCP_NAT.pdf](/na/2025/03_DHCP_NAT.pdf) |
