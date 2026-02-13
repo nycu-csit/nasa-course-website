@@ -15,8 +15,4 @@ title: NA - 2025 課程資訊
   - "TCP/IP Illustrated, Volume 1: The Protocols"
 
 ## 評分方式 / Grade Policy
-- 原始頁面未提供精確評分細則。歷年 NA 課程常見分配（僅供參考）：
-  - Midterm: ~15%
-  - Final: ~15%
-  - Homework / Exercises: ~60–70%
-  - Presentation / Project: 0–10%
+Missing
