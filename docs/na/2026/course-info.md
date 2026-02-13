@@ -1,11 +1,11 @@
 ---
-title: NA - 2026 課程資訊
+title: NAP - 2026 課程資訊
 ---
 
-# NA - 2026 課程資訊
+# NAP - 2026 課程資訊
 
 ## 課程名稱 / Course Title
-- Network Administration Practice (NA, 2026)
+- Network Administration Practice (NAP, 2026)
 
 ## 教材 / Textbook & Recommended Books
 - 授課投影片（Slides in course） — 請參考 `slides/` 目錄中的 PDF / PPT 檔案。
@@ -16,7 +16,7 @@ title: NA - 2026 課程資訊
 
 ## 評分方式 / Grade Policy
 - 原始頁面未提供精確評分細則。歷年 NA 課程常見分配（僅供參考）：
-  - Midterm: ~15%
-  - Final: ~15%
-  - Homework / Exercises: ~60–70%
-  - Presentation / Project: 0–10%
+  - 期末上機: 15%
+  - 期末筆試: 15%
+  - HW1: 35%
+  - HW2: 35%

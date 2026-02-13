@@ -8,22 +8,24 @@ title: NA - 2026 課程內容
 
 | Week # | Date | Lecture | Slides |
 | ------- | ------ | ------ | ------ |
-| 1 | 2/23 | Syllabus<br>Homework 1-0 | [00_Syllabus.pdf](/na/2025/00_Syllabus.pdf)<br>[HW1-0](/na/2026/hw1-0.pdf) |
-| 2 | 3/2 | Network Introduction | [01_Network_Introduction.pdf](/na/2025/01_Network_Introduction.pdf) |
-| 3 | 3/9 | Routing | [02_Routing.pdf](/na/2025/02_Routing.pdf) |
-| 4 | 3/16 | DHCP NAT | [03_DHCP_NAT.pdf](/na/2025/03_DHCP_NAT.pdf) |
-| 5 | 3/23 | Firewall | [04_Firewall.pdf](/na/2025/04_Firewall.pdf) |
-| 6 | 3/30 | VPN | [05_VPN.pdf](/na/2025/05_VPN.pdf) |
-| 7 | 4/6 | OpenVPN | [06_OpenVPN.pdf](/na/2025/06_OpenVPN.pdf) |
-| 8 | 4/13 | WireGuard | [07_WireGuard.pdf](/na/2025/07_WireGuard.pdf) |
-| 9 | 4/20 | DNS | [11_DNS.pdf](/na/2025/11_DNS.pdf) |
-| 10 | 4/27 | BIND | [12_BIND.pdf](/na/2025/12_BIND.pdf) |
-| 11 | 5/4 | MailSystem | [13_MailSystem.pdf](/na/2025/13_MailSystem.pdf) |
-| 12 | 5/11 | Postfix | [14_Postfix.pdf](/na/2025/14_Postfix.pdf) |
-| 13 | 5/18 | LDAP | [16_LDAP.pdf](/na/2025/16_LDAP.pdf) |
-| 14 | 5/25 | SNMP | [17_SNMP.pdf](/na/2025/17_SNMP.pdf) |
-| 15 | 6/1 | ConfigMgmt | [18_ConfigMgmt.pdf](/na/2025/18_ConfigMgmt.pdf) |
-| 16 | 6/8 | Final Exam | |
+| 1 | 2/23 | Syllabus<br>Network Introduction, DHCP, NAT & SA (study on your own)<br>*HW1-0* | [HW1-0](/na/2026/hw1-0.pdf) |
+| 2 | 3/2 | VPN<br>OpenVPN<br>WireGuard<br>Virtual Only | 
+| 3 | 3/9 | DNS: Domain Name System | 
+| 4 | 3/16 | BIND: Berkeley Internet Name Domain<br>*HW1-1* | 
+| 5 | 3/23 | Mail System | 
+| 6 | 3/30 | Postfix<br>*HW1-2* | 
+| 7 | 4/6 | 清明節 | 
+| 8 | 4/13 | LDAP<br>*HW1-3* | 
+| 9 | 4/20 | Configuration Management: Ansible<br>nftables | 
+| 10 | 4/27 | Introduction to Kubernetes<br>*HW2-1* | 
+| 11 | 5/4 | K8s Resources & Networking | 
+| 12 | 5/11 | K8s Security & Continuous Delivery<br>*HW2-2* | 
+| 13 | 5/18 | K8s Monitoring & Logging<br>Intro to CNCF Projects | 
+| 14 | 5/25 | | |
+| 15 | 6/1 | | |
+| 16 | 6/8 | 期末筆試 | 
+| | 6/22 | *HW1 & HW2 Deadline* | 
+
 ---
 
 [返回 NA 首頁](/na/)

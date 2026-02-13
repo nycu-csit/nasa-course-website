@@ -121,13 +121,13 @@ function getNaSidebar() {
     {
       text: "Undergraduate (NA)",
       collapsible: true,
-      collapsed: false,
+      collapsed: true,
       items: buildYearItems(undergraduateYears),
     },
     {
       text: "Graduate (NAP)",
       collapsible: true,
-      collapsed: true,
+      collapsed: false,
       items: buildYearItems(graduateYears),
     },
   ];
@@ -228,7 +228,7 @@ export default {
     nav: [
       { text: "首頁", link: "/" },
       { text: "SA", link: "/sa/" },
-      { text: "NA", link: "/na/" },
+      { text: "NAP", link: "/na/" },
       { text: "推薦書籍", link: "/recommended-books" },
       { text: "相關連結", link: "/related-links" },
     ],
