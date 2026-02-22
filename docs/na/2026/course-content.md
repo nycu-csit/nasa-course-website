@@ -8,14 +8,14 @@ title: NA - 2026 課程內容
 
 | Week # | Date | Lecture | Slides |
 | ------- | ------ | ------ | ------ |
-| 1 | 2/23 | Syllabus<br>Network Introduction, DHCP, NAT & SA (study on your own)<br>*HW1-0* | [HW1-0](/na/2026/hw1-0.pdf) |
+| 1 | 2/23 | Syllabus<br>Network Introduction, DHCP, NAT & SA (study on your own)<br>*HW1-0: Environment Setup* | [HW1-0](/na/2026/hw1-0.pdf) |
 | 2 | 3/2 | VPN<br>OpenVPN<br>WireGuard |
 | 3 | 3/9 | DNS: Domain Name System |
-| 4 | 3/16 | BIND: Berkeley Internet Name Domain<br>*HW1-1* |
+| 4 | 3/16 | BIND: Berkeley Internet Name Domain<br>*HW1-1: DNS* |
 | 5 | 3/23 | Mail System |
-| 6 | 3/30 | Postfix<br>*HW1-2* |
+| 6 | 3/30 | Postfix<br>*HW1-2: Mail* |
 | 7 | 4/6 | 清明節 |
-| 8 | 4/13 | LDAP<br>*HW1-3* |
+| 8 | 4/13 | LDAP<br>*HW1-3: LDAP* |
 | 9 | 4/20 | Configuration Management: Ansible<br>nftables |
 | 10 | 4/27 | Introduction to Kubernetes<br>*HW2-1* |
 | 11 | 5/4 | K8s Resources & Networking |
