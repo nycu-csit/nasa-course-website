@@ -8,7 +8,7 @@ title: NA - 2026 課程內容
 
 | Week # | Date | Lecture | Slides |
 | ------- | ------ | ------ | ------ |
-| 1 | 2/23 | Syllabus<br>Network Introduction, DHCP, NAT & SA (study on your own)<br>*HW1-0: Environment Setup* | [HW1-0](/na/2026/hw1-0.pdf) |
+| 1 | 2/23 | Syllabus<br>Network Introduction, DHCP, NAT & SA (study on your own)<br>*HW1-0: Environment Setup* |[Syllabus](/na/2026/00_Syllabus.pdf) <br> [HW1-0](/na/2026/hw1-0.pdf) |
 | 2 | 3/2 | VPN<br>OpenVPN<br>WireGuard |
 | 3 | 3/9 | DNS: Domain Name System |
 | 4 | 3/16 | BIND: Berkeley Internet Name Domain<br>*HW1-1: DNS* |
