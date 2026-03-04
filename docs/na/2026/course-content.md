@@ -19,9 +19,9 @@ title: NA - 2026 課程內容
 | 9 | 4/20 | Configuration Management: Ansible<br>nftables |
 | 10 | 4/27 | Introduction to Kubernetes<br>*HW2-1* |
 | 11 | 5/4 | K8s Resources & Networking |
-| 12 | 5/11 | K8s Security & Continuous Delivery<br>*HW2-2* |
+| 12 | 5/11 | K8s Monitoring & Logging<br>Intro to CNCF Projects<br>*HW2-2* |
 | 13 | 5/18 | Invited Speech (MOXA) |
-| 14 | 5/25 | K8s Monitoring & Logging<br>Intro to CNCF Projects |
+| 14 | 5/25 | K8s Security & Continuous Delivery |
 | 15 | 6/1 | Invited Speech (NCHC) |
 | 16 | 6/6 | 期末上機考 |
 |    | 6/8 | 期末筆試 |
