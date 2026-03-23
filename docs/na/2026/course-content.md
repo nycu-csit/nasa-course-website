@@ -12,7 +12,7 @@ title: NA - 2026 課程內容
 | 2 | 3/2 | VPN<br>OpenVPN<br>WireGuard | [VPN](/na/2026/05_VPN.pdf) <br> [WireGuard](/na/2026/06_WireGuard.pdf) <br> [OpenVPN](/na/2026/07_OpenVPN.pdf)|
 | 3 | 3/9 | DNS: Domain Name System | [DNS](/na/2026/11_DNS.pdf) |
 | 4 | 3/16 | BIND: Berkeley Internet Name Domain<br>*HW1-1: DNS* | [BIND](/na/2026/12_BIND.pdf) <br> [HW1-1](/na/2026/HW1-1-DNS.pdf) |
-| 5 | 3/23 | Mail System |
+| 5 | 3/23 | Mail System | [Mail System](/na/2026/13_MailSystem.pdf) |
 | 6 | 3/30 | Postfix<br>*HW1-2: Mail* |
 | 7 | 4/6 | 清明節 |
 | 8 | 4/13 | LDAP<br>*HW1-3: LDAP* |
