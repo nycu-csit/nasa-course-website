@@ -15,7 +15,7 @@ title: NA - 2026 課程內容
 | 5 | 3/23 | Mail System | [Mail System](/na/2026/13_MailSystem.pdf) |
 | 6 | 3/30 | Postfix<br>*HW1-2: Mail* | [Postfix](/na/2026/14_Postfix.pdf) <br> [HW1-2](/na/2026/HW1-2-Mail.pdf) |
 | 7 | 4/6 | 清明節 |
-| 8 | 4/13 | LDAP<br>*HW1-3: LDAP* | [LDAP](/na/2026/16_LDAP.pdf) <br> | 
+| 8 | 4/13 | LDAP<br>*HW1-3: LDAP* | [LDAP](/na/2026/16_LDAP.pdf) <br> [HW1-3](/na/2026/HW1-3-LDAP.pdf) | 
 | 9 | 4/20 | Configuration Management: Ansible<br>nftables |
 | 10 | 4/27 | Introduction to Kubernetes<br>*HW2-1* |
 | 11 | 5/4 | K8s Resources & Networking |
