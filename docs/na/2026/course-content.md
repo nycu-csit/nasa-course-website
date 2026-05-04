@@ -18,7 +18,7 @@ title: NA - 2026 課程內容
 | 8 | 4/13 | LDAP<br>*HW1-3: LDAP* | [LDAP](/na/2026/16_LDAP.pdf) <br> [HW1-3](/na/2026/HW1-3-LDAP.pdf) |
 | 9 | 4/20 | Infrastructure as Code<br>nftables | [IaC](/na/2026/IaC.pdf) <br> [nftables](/na/2026/nftables.pdf) |
 | 10 | 4/27 | Introduction to Kubernetes | [Introduction to Kubernetes](/na/2026/intro_to_k8s.pdf) |
-| 11 | 5/4 | K8s Resources & Networking<br>*HW2-1* | [Kubernetes Resource and Networking](/na/2026/Kubernetes_Resources_and_Networking.pdf) <br> [HW2-1](/na/2026/HW2-1_Kubernetes.pdf)|
+| 11 | 5/4 | K8s Resources & Networking<br>*HW2-1* | [Kubernetes Resources and Networking](/na/2026/Kubernetes_Resources_and_Networking.pdf) <br> [HW2-1](/na/2026/HW2-1_Kubernetes.pdf)|
 | 12 | 5/11 | K8s Monitoring & Logging<br>Intro to CNCF Projects<br>*HW2-2* |
 | 13 | 5/18 | Invited Speech (MOXA) |
 | 14 | 5/25 | K8s Security & Continuous Delivery |
