@@ -20,7 +20,7 @@ title: NA - 2026 課程內容
 | 10 | 4/27 | Introduction to Kubernetes | [Introduction to Kubernetes](/na/2026/intro_to_k8s.pdf) |
 | 11 | 5/4 | K8s Resources & Networking<br>*HW2-1* | [Kubernetes Resources and Networking](/na/2026/Kubernetes_Resources_and_Networking.pdf) <br> [HW2-1](/na/2026/HW2-1_Kubernetes.pdf)|
 | 12 | 5/11 | K8s Echosystem<br>Observability<br>*HW2-2* | [K8s Ecosystem](/na/2026/K8s-Ecosystem.pdf)<br>[Observability](/na/2026/Observability.pdf)<br>[HW2-2](/na/2026/HW2-2-Metrics.pdf)|
-| 13 | 5/18 | Invited Speech (MOXA) |
+| 13 | 5/18 | Invited Speech<br>Topic 1: 工業 Wi-Fi 通訊系統：半導體 AMHS/OHT 應用與技術實務<br>Speaker 1: Jimmy CM Yang（楊昌謀）, 資深軟體技術經理 (MOXA), <br> Topic 2: 從網路模擬走向數位孿生 <br>Speaker 2: Kyle Hsieh（謝名凱）, 軟體技術經理 <MOXA)|
 | 14 | 5/25 | K8s Security & Continuous Delivery |
 | 15 | 6/1 | Invited Speech (NCHC) |
 | 16 | 6/6 | 期末上機考 |
