@@ -29,7 +29,7 @@ Each year directory typically contains pages such as `course-info.md` and `cours
 
 ## Prerequisites
 
-- [Node.js](https://nodejs.org/) — the CI builds with **Node 18**, so use Node 18 or newer.
+- [Node.js](https://nodejs.org/) — the CI builds with **Node 24**, so use Node 24 or newer.
 
 ## Getting Started
 
