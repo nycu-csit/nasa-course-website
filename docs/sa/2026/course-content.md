@@ -13,7 +13,6 @@ title: SA - 2026 課程內容
 | 9/21 | Shell Programming <br>*Homework 0 Deadline*<br>*Homework 1 Announcement: Shell Script, System Info., Docker* | [Shell Programming](/sa/2026/04_ShellProgramming.pdf) <br> [HW1](/sa/2026/hw1.pdf) |
 | 9/28 | Teacher's Day **(no class)** | |
 | 10/5 | Linux Networking and Commands | [Linux Networking and Commands](/sa/2026/Linux_Networking_Commands.pdf) |
-
 | 10/12 | User Management<br>Booting Up and Shutting Down | [User Management](/sa/2026/07_User_Management.pdf) <br>[Booting Up and Shutting Down](/sa/2026/Boot_and_Shutdown.pdf) |
 | 10/19 | debian iso preseed<br> (cloud init) <br> crowdsec<br>*Homework 1 Deadline*<br>*Homework 2 Announcement: File Server and Filesystem* | <br><br><br>[HW2](/sa/2026/hw2.pdf) |
 | 10/26 | Mid-Autumn Festival **(no class)** | [Self-study: Docker - Basic](/sa/2026/Docker_Basic.pdf) |
