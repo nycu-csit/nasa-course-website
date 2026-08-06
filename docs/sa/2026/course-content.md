@@ -19,9 +19,9 @@ title: SA - 2026 課程內容
 | 11/2 | Controlling Process<br>Periodic Processes | [Controlling Process](/sa/2026/08_Controlling_Process.pdf)<br>[Periodic Processes](/sa/2026/09_Periodic_Processes.pdf)  |
 | 11/9 | Filesystem<br>LVM<br>BTRFS |[Filesystem](/sa/2026/10_FileSystem.pdf)<br>[LVM](/sa/2026/LVM.pdf)<br>[BTRFS](/sa/2026/BTRFS.pdf) |
 | 11/16 | systemd + journal<br>Docker - Advanced <br>*Homework 2 Deadline*<br>*Homework 3 Announcement: Web Service*| [systemd](/sa/2026/systemd.pdf)<br>[Docker - Advanced](/sa/2026/Docker_Advanced.pdf)<br>[HW3](/sa/2026/hw3.pdf) |
-| 11/23 | Web<br>Web Service<br>PKI<br>**Kind Remind: Deadline for course withdrawal: 11/28** |[Web](/sa/2026/18_Web.pdf)<br>[Web Service](/sa/2026/Web_Service.pdf)<br>[PKI](/sa/2026/22_PKI.pdf) |
+| 11/23 | Web<br>Web Service<br>PKI|[Web](/sa/2026/18_Web.pdf)<br>[Web Service](/sa/2026/Web_Service.pdf)<br>[PKI](/sa/2026/22_PKI.pdf) |
 | 11/30 | The Network File System<br>iSCSI|[NFS](/sa/2026/NFS.pdf)<br>[iSCSI](/sa/2026/iSCSI.pdf) |
-| 12/7 | ||
+| 12/7 |**Kind Remind: Deadline for course withdrawal: 12/4** ||
 | 12/14 |  ||
 | 12/21 | 上機考 at 12/20<br>筆試 at 12/21 |  |
 | 12/ | *Homework 3 Deadline* |  |
