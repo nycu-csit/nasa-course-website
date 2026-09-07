@@ -18,13 +18,13 @@ title: SA - 2026 課程內容
 | 10/26 | 光復節 **(no class)** | |
 | 11/2 | Invited Talk: MOXA | |
 | 11/9 | Controlling Process<br>Periodic Processes | |
-| 11/16 | systemd + journal<br>Docker<br>*Homework 2 Deadline*<br>*Homework 3 Announcement: Web Service* | |
-| 11/23 | Web<br>Web Service<br>PKI | |
+| 11/16 | systemd + journal<br>Docker<br>*Homework 3 Announcement: Web Service* | |
+| 11/23 | Web<br>Web Service<br>PKI<br>*Homework 2 Deadline* | |
 | 11/30 | The Network File System<br>iSCSI<br>**Kind Remind: Deadline for course withdrawal: 12/4** |  |
 | 12/7 | Debian ISO preseed<br>Cloud init<br>Syslog<br>Crowdsec | |
 | 12/14 |  ||
 | 12/21 | 上機考 at 12/20<br>筆試 at 12/21 |  |
-| 12/ | *Homework 3 Deadline* |  |
+| 12/21 | *Homework 3 Deadline* |  |
 
 ---
 
