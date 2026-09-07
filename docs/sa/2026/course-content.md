@@ -10,7 +10,7 @@ title: SA - 2026 課程內容
 |-------|-------------|----------|
 | 9/7 | Syllabus<br>Install Debian<br>Install Applications<br>*Homework 0 Announcement: Install Debian and Wireguard* | [Syllabus](/sa/2026/Syllabus.pdf)<br>[Install Debian](/sa/2026/Install_Debian.pdf)<br>[Install Applications](/sa/2026/Install_Application.pdf)<br>[HW0](/sa/2026/hw0.pdf) |
 | 9/14 | Shell (1) |  |
-| 9/21 | Shell (2)<br>Shell Programming<br>*Homework 0 Deadline*<br>*Homework 1 Announcement: Shell Script, System Info., Docker* | |
+| 9/21 | Shell (2)<br>Shell Programming<br>*Homework 1 Announcement: Shell Script, System Info., Docker* | |
 | 9/28 | Self-study: Docker - Basic<br>Teacher's Day **(no class)** | |
 | 10/5 | Linux Networking and Commands |  |
 | 10/12 | User Management<br>Booting Up and Shutting Down | |
