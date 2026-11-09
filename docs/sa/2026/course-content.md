@@ -17,7 +17,7 @@ title: SA - 2026 課程內容
 | 10/19 | Filesystem<br>LVM<br>BTRFS<br>*Homework 1 Deadline*<br>*Homework 2 Announcement: System Maintenance and SFTP* | [Filesystem](/sa/2026/10_FileSystem.pdf)<br>[LVM](/sa/2026/LVM.pdf)<br>[BTRFS](/sa/2026/BTRFS.pdf)<br>[HW2](/sa/2026/hw2.pdf)  |
 | 10/26 | 光復節 **(no class)** | |
 | 11/2 | Invited Talk: MOXA<br>Session 1: Building Secure and Reliable Windows IPCs<br>Speaker: Robert TF Tsai (蔡宗甫)<br>Session 2: 當事件通報變成義務<br>Speaker: Johnson KY Chen (陳冠運) | |
-| 11/9 | Controlling Process<br>Periodic Processes | |
+| 11/9 | Controlling Process<br>Periodic Processes |[Controlling Process](/sa/2026/08_Controlling_Process.pdf)<br>[Periodic Processes](/sa/2026/09_Periodic_Processes.pdf) |
 | 11/16 | systemd + journal<br>Docker<br>*Homework 3 Announcement: Web Service* | |
 | 11/23 | Web<br>Web Service<br>PKI | |
 | 11/30 | The Network File System<br>iSCSI<br>**Kind Remind: Deadline for course withdrawal: 12/4** |  |
