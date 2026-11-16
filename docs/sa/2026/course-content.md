@@ -20,7 +20,7 @@ title: SA - 2026 課程內容
 | 11/9 | Controlling Process<br>Periodic Processes |[Controlling Process](/sa/2026/08_Controlling_Process.pdf)<br>[Periodic Processes](/sa/2026/09_Periodic_Processes.pdf) |
 | 11/16 | systemd + journal<br>Docker<br>*Homework 3 Announcement: Web Service* |[systemd](/sa/2026/systemd.pdf)<br>[Docker - Advanced](/sa/2026/Docker_Advanced.pdf)<br>[HW3](/sa/2026/hw3.pdf) |
 | 11/23 | Web<br>Web Service<br>PKI | |
-| 11/30 | The Network File System<br>iSCSI<br>**Kind Remind: Deadline for course withdrawal: 12/4** |  |
+| 11/30 | The Network File System<br>iSCSI<br>**Kind Remind: Deadline for course withdrawal: 12/4**<br>資工系資訊中心招生說明<br>RightWay 團隊招募 |  |
 | 12/7 | Debian ISO preseed<br>Cloud init<br>Syslog<br>Crowdsec | |
 | 12/14 |  ||
 | 12/21 | 上機考 at 12/20<br>筆試 at 12/21 |  |
